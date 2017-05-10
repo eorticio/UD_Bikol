@@ -1,0 +1,153 @@
+# sent_id = bcl:1:0
+# text = An kabotan kan banwaan iyo an dapat na pinaghahalean kan autoridad kan gobierno;
+1	An	an	_	det	ind	2	det	_	_
+2	kabotan	kabotan	_	n	_	9	nsubj	_	_
+3	kan	kan	_	pr	_	4	case	_	_
+4	banwaan	banwaan	_	n	_	2	nmod	_	_
+5	iyo	iyo	_	adv	_	9	advmod	_	_
+6	an	an	_	det	ind	9	det	_	_
+7	dapat	dapat	_	vaux	_	9	aux	_	_
+8	na	na	_	link	_	7	dep	_	_
+9	pinaghahalean	pinaghahalean	_	vblex	_	0	root	_	_
+10	kan	kan	_	pr	_	11	case	_	_
+11	autoridad	autoridad	_	n	_	9	obj	_	_
+12	kan	kan	_	pr	_	13	case	_	_
+13	gobierno	gobierno	_	n	_	11	nmod	_	_
+14	;	;	_	sent	_	9	punct	_	_
+
+# sent_id = bcl:2:28
+# text = An aripompon kaini pwedeng ginatos na ribo asin aboton pang milyon.
+1	An	an	_	det	ind	2	det	_	_
+2	aripompon	aripompon	_	n	_	5	nsubj	_	_
+3	kaini	kainí	_	prn	dem	2	nmod	_	_
+4	pwedeng	pwedeng	_	vblex	_	5	aux	_	_
+5	ginatos	ginatos	_	vblex	_	0	root	_	_
+6	na	na	_	link	_	7	dep	_	_
+7	ribo	ribo	_	num	_	5	obj	_	_
+8	asin	asin	_	cnjcoo	_	9	cc	_	_
+9	aboton	abot	_	vblex	inf	5	conj	_	_
+10	pang	pa	_	adv	_	9	advmod	_	_
+11	milyon	milyon	_	num	_	9	obj	_	_
+12	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:3:53
+# text = Si Jose Maria Panganiban sarong propagandistang Pilipino.
+1	Si	si	_	det	def	2	det	_	_
+2	Jose	Jose	_	cog	_	6	nsubj	_	_
+3	Maria	Maria	_	cog	_	2	flat	_	_
+4	Panganiban	Panganiban	_	cog	_	2	flat	_	_
+5	sarong	sarong	_	det	ind	6	det	_	_
+6	propagandistang	propagandistang	_	n	_	0	root	_	_
+7	Pilipino	Pilipino	_	cog	_	6	amod	_	_
+8	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = bcl:4:70
+# text = An guyabano ginigibohan naman nin arak.
+1	An	an	_	det	ind	2	det	_	_
+2	guyabano	guyabano	_	n	_	3	nsubj	_	_
+3	ginigibohan	gibo	_	vblex	_	0	root	_	_
+4	naman	naman	_	adv	_	3	advmod	_	_
+5	nin	nin	_	pr	_	6	case	_	_
+6	arak	arak	_	n	_	3	obj	_	_
+7	.	.	_	sent	_	3	punct	_	_
+
+# sent_id = bcl:5:86
+# text = Sa ibang lugar, an kanding ginagamit man sa paggoyod nin kariton ..
+1	Sa	sa	_	pr	_	2	case	_	_
+2	ibang	iba	_	vblex	_	7	advcl	_	_
+3	lugar	lugar	_	n	_	2	nsubj	_	_
+4	,	,	_	cm	_	6	punct	_	_
+5	an	an	_	det	ind	6	det	_	_
+6	kanding	kanding	_	n	_	7	nsubj	_	_
+7	ginagamit	gamit	_	pres	_	0	root	_	_
+8	man	man	_	adv	_	7	advmod	_	_
+9	sa	sa	_	det	def	10	det	_	_
+10	paggoyod	goyod	_	n	_	7	obj	_	_
+11	nin	nin	_	pr	_	12	case	_	_
+12	kariton	kariton	_	n	_	10	nmod	_	_
+13	..	..	_	sent	_	7	punct	_	_
+
+# sent_id = bcl:6:113
+# text = Maray man kami digdi.
+1	Maray	ray	_	adj	sg	0	root	_	_
+2	man	man	_	adv	_	1	advmod	_	_
+3	kami	kamí	_	prn	p1|pl	1	nsubj	_	_
+4	digdi	digdi	_	adv	_	1	advmod	_	_
+5	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:7:124
+# text = Siya nagsusurat nin mga rawitdawit sa Gubatnon asin Bikol.
+1	Siya	siyá	_	prn	p3|sg	2	nsubj	_	_
+2	nagsusurat	surat	_	vblex	fti	0	root	_	_
+3	nin	nin	_	pr	_	5	case	_	_
+4	mga	mga	_	pl	_	5	det	_	_
+5	rawitdawit	rawitdawit	_	n	_	2	obj	_	_
+6	sa	sa	_	pr	_	7	case	_	_
+7	Gubatnon	Gubatnon	_	cog	_	2	obl	_	_
+8	asin	asin	_	cnjcoo	_	9	cc	_	_
+9	Bikol	Bikol	_	cog	_	7	conj	_	_
+10	.	.	_	sent	_	2	punct	_	_
+
+# sent_id = bcl:8:145
+# text = Igwa pa palan kaming sarong lecture.
+1	Igwa	igwa	_	vblex	_	0	root	_	_
+2	pa	pa	_	adv	_	1	advmod	_	_
+3	palan	palan	_	adv	_	2	advmod	_	_
+4	kaming	kami	_	prn	p1|pl	1	nsubj	_	_
+5	sarong	sarong	_	det	ind	6	det	_	_
+6	lecture	lecture	_	n	_	1	obj	_	_
+7	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:9:160
+# text = An banwaan kan Jolo, an kapitolyo kaini asin sinasakop niya an mga isla sa tahaw na parte kan arkipelago kan Sulu.
+1	An	an	_	det	ind	2	det	_	_
+2	banwaan	banwaan	_	n	_	14	acl	_	_
+3	kan	kan	_	pr	_	4	case	_	_
+4	Jolo	Jolo	_	cog	_	2	obl	_	_
+5	,	,	_	cm	_	14	punct	_	_
+6	an	an	_	det	ind	7	det	_	_
+7	kapitolyo	kapitolyo	_	n	_	14	nsubj	_	_
+8	kaini	kaini	_	prn	dem	7	det	_	_
+9	asin	asin	_	cnjcoo	_	10	cc	_	_
+10	sinasakop	sakop	_	n	_	7	conj	_	_
+11	niya	niyá	_	prn	p3|sg	10	nmod	_	_
+12	an	an	_	det	ind	14	det	_	_
+13	mga	mga	_	pl	_	14	det	_	_
+14	isla	isla	_	n	_	0	root	_	_
+15	sa	sa	_	pr	_	16	case	_	_
+16	tahaw	tahaw	_	n	_	18	nmod	_	_
+17	na	na	_	link	_	18	aux:nmod	_	_
+18	parte	parte	_	n	_	20	nmod	_	_
+19	kan	kan	_	pr	_	20	case	_	_
+20	arkipelago	arkipelago	_	n	_	14	obl	_	_
+21	kan	kan	_	pr	_	22	case	_	_
+22	Sulu	Sulu	_	cog	_	20	obl	_	_
+23	.	.	_	sent	_	14	punct	_	_
+
+# sent_id = bcl:10:207
+# text = Siya namundag sa barrio kan Sto. Tomas, Pasig asin an mga magurang niya sinda Pedro Angeles asin Fortunata Lakandula.
+1	Siya	siyá	_	prn	p3|sg	2	nsubj	_	_
+2	namundag	mundag	_	vblex	inf	0	root	_	_
+3	sa	sa	_	pr	_	4	case	_	_
+4	barrio	barrio	_	n	_	2	obl	_	_
+5	kan	kan	_	pr	_	6	case	_	_
+6	Sto.	Sto.	_	cog	_	2	obl	_	_
+7	Tomas	Tomas	_	cog	_	6	flat	_	_
+8	,	,	_	cm	_	9	punct	_	_
+9	Pasig	Pasig	_	cog	_	6	flat	_	_
+10	asin	asin	_	cnjcoo	_	14	cc	_	_
+11	an	an	_	det	ind	13	det	_	_
+12	mga	mga	_	pl	_	13	det	_	_
+13	magurang	gurang	_	adj	sg	14	amod	_	_
+14	niya	niyá	_	prn	p3|sg	1	conj	_	_
+15	sinda	sindá	_	prn	p3|pl	2	obj	_	_
+16	Pedro	Pedro	_	cog	_	15	nmod	_	_
+17	Angeles	Angeles	_	cog	_	16	flat	_	_
+18	asin	asin	_	cnjcoo	_	19	cc	_	_
+19	Fortunata	Fortunata	_	cog	_	16	conj	_	_
+20	Lakandula	Lakandula	_	cog	_	19	flat	_	_
+21-22	.	_	_	_	_	_	_	_	_
+21	.	.	_	sent	_	2	punct	_	_
+22	_	.	_	sent	_	2	punct	_	_
+
+

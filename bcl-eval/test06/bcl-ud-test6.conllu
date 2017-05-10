@@ -1,0 +1,177 @@
+# sent_id = bcl:1:0
+# text = An familia iyo an natural asin fundamental na grupo-elemento kan banwaan asin igwa nin derecho sa proteccion kan banwaan asin kan Estado.
+1	An	an	_	det	ind	2	det	_	_
+2	familia	familia	_	n	_	9	nsubj	_	_
+3	iyo	iyo	_	adj	sg	2	amod	_	_
+4	an	an	_	det	ind	9	det	_	_
+5	natural	natural	_	adj	sg	9	amod	_	_
+6	asin	asin	_	cnjcoo	_	7	cc	_	_
+7	fundamental	fundamental	_	adj	sg	5	conj	_	_
+8	na	na	_	link	_	5	aux:amod	_	_
+9	grupo	grupo	_	n	_	0	root	_	_
+10	-	-	_	guio	_	9	compound	_	_
+11	elemento	elemento	_	n	_	9	compound	_	_
+12	kan	kan	_	pr	_	13	case	_	_
+13	banwaan	banwaan	_	n	_	9	nmod	_	_
+14	asin	asin	_	cnjcoo	_	15	cc	_	_
+15	igwa	igwa	_	vblex	_	9	conj	_	_
+16	nin	nin	_	pr	_	17	case	_	_
+17	derecho	derecho	_	n	_	15	obj	_	_
+18	sa	sa	_	pr	_	19	case	_	_
+19	proteccion	proteccion	_	n	_	17	nmod	_	_
+20	kan	kan	_	pr	_	21	case	_	_
+21	banwaan	banwaan	_	n	_	19	nmod	_	_
+22	asin	asin	_	cnjcoo	_	24	cc	_	_
+23	kan	kan	_	pr	_	24	case	_	_
+24	Estado	Estado	_	n	_	21	conj	_	_
+25	.	.	_	sent	_	9	punct	_	_
+
+# sent_id = bcl:2:50
+# text = Amber Benson, sarong pangenot na babai na aktres, o singer kan Estados Unidos.
+1	Amber	Amber	_	cog	_	4	nsubj	_	_
+2	Benson	Benson	_	cog	_	1	flat	_	_
+3	,	,	_	cm	_	5	punct	_	_
+4	sarong	sarong	_	det	ind	5	det	_	_
+5	pangenot	pangenot	_	n	_	0	root	_	_
+6	na	na	_	link	_	7	aux:nmod	_	_
+7	babai	babai	_	n	_	5	nmod	_	_
+8	na	na	_	link	_	9	aux:nmod	_	_
+9	aktres	aktres	_	n	_	5	nmod	_	_
+10	,	,	_	cm	_	12	punct	_	_
+11	o	o	_	cnjcoo	_	12	cc	_	_
+12	singer	singer	_	n	_	5	obj	_	_
+13	kan	kan	_	pr	_	14	case	_	_
+14	Estados	Estados	_	cog	_	5	obl	_	_
+15	Unidos	Unidos	_	adj	_	14	amod	_	_
+16	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:3:83
+# text = Nagadan si Quezon huli sa helang na tuberculosis duman sa Saranc Lake, Nweba York.
+1	Nagadan	adan	_	vblex	inf	0	root	_	_
+2	si	si	_	pr	_	1	case	_	_
+3	Quezon	Quezon	_	cog	_	1	obl	_	_
+4	huli	huli	_	n	_	1	case	_	_
+5	sa	sa	_	pr	_	4	fixed	_	_
+6	helang	helang	_	n	_	1	obl	_	_
+7	na	na	_	link	_	8	aux:nmod	_	_
+8	tuberculosis	tuberculosis	_	n	_	6	nmod	_	_
+9	duman	duman	_	prn	dem	1	advmod	_	_
+10	sa	sa	_	pr	_	11	case	_	_
+11	Saranc	Saranc	_	cog	_	1	obl	_	_
+12	Lake	Lake	_	cog	_	11	flat	_	_
+13	,	,	_	cm	_	14	punct	_	_
+14	Nweba	Nweba	_	cog	_	11	flat	_	_
+15	York	York	_	cog	_	11	flat	_	_
+16	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:4:116
+# text = Hinihiling siya komo sarong icon nin kultura asin nabantog na maray sa pangaran sanang Elvis.
+1	Hinihiling	hiling	_	vblex	_	0	root	_	_
+2	siya	siya	_	prn	p3|sg	1	nsubj	_	_
+3	komo	komo	_	pr	_	5	case	_	_
+4	sarong	sarong	_	det	ind	5	det	_	_
+5	icon	icon	_	n	_	1	obl	_	_
+6	nin	nin	_	pr	_	7	case	_	_
+7	kultura	kultura	_	n	_	5	nmod	_	_
+8	asin	asin	_	cnjcoo	_	9	cc	_	_
+9	nabantog	bantog	_	vblex	_	1	conj	_	_
+10	na	na	_	link	_	11	aux:advmod	_	_
+11	maray	maray	_	adv	_	9	advmod	_	_
+12	sa	sa	_	pr	_	13	case	_	_
+13	pangaran	pangaran	_	n	_	11	obl	_	_
+14	sanang	sana	_	adv	_	9	advmod	_	_
+15	Elvis	Elvis	_	cog	_	9	nsubj	_	_
+16	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:5:149
+# text = An kanda, depende sa species, nagbuburak na nadarang kolor na puti, pula, giyaw, mairom na rosa o lila.
+1	An	an	_	det	ind	2	det	_	_
+2	kanda	kanda	_	n	_	8	nsubj	_	_
+3	,	,	_	cm	_	4	punct	_	_
+4	depende	depende	_	vblex	_	8	advcl	_	_
+5	sa	sa	_	pr	_	4	fixed	_	_
+6	species	species	_	n	_	4	obj	_	_
+7	,	,	_	cm	_	8	punct	_	_
+8	nagbuburak	burak	_	vblex	fti	0	root	_	_
+9	na	na	_	link	_	10	aux:advmod	_	_
+10	nadarang	nadarang	_	adv	_	8	advmod	_	_
+11	kolor	kolor	_	n	_	10	nmod	_	_
+12	na	na	_	link	_	13	aux:amod	_	_
+13	puti	puti	_	adj	sg	11	amod	_	_
+14	,	,	_	cm	_	15	punct	_	_
+15	pula	pulá	_	adj	sg	13	conj	_	_
+16	,	,	_	cm	_	17	punct	_	_
+17	giyaw	giyaw	_	adj	sg	13	amod	_	_
+18	,	,	_	cm	_	19	punct	_	_
+19	mairom	mairom	_	adj	sg	13	amod	_	_
+20	na	na	_	link	_	21	aux:amod	_	_
+21	rosa	rosa	_	adj	sg	19	amod	_	_
+22	o	o	_	cnjcoo	_	23	cc	_	_
+23	lila	lila	_	adj	sg	13	conj	_	_
+24	.	.	_	sent	_	8	punct	_	_
+
+# sent_id = bcl:6:198
+# text = An presidente kan Pilipinas kapay.
+1	An	an	_	det	ind	2	det	_	_
+2	presidente	presidente	_	n	_	5	nsubj	_	_
+3	kan	kan	_	pr	_	4	case	_	_
+4	Pilipinas	Pilipinas	_	cog	_	2	nmod	_	_
+5	kapay	kapay	_	adj	sg	0	root	_	_
+6	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:7:211
+# text = Nagbisita sa eskuelahan mi si Evan asin Rio.
+1	Nagbisita	bisita	_	vblex	_	0	root	_	_
+2	sa	sa	_	pr	_	3	case	_	_
+3	eskuelahan	eskuelahan	_	n	_	1	obl	_	_
+4	mi	mi	_	prn	p1|pl	3	nmod	_	_
+5	si	si	_	det	def	6	det	_	_
+6	Evan	Evan	_	cog	_	1	nsubj	_	_
+7	asin	asin	_	cnjcoo	_	8	cc	_	_
+8	Rio	Rio	_	cog	_	6	conj	_	_
+9	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:8:230
+# text = Igwa na naman programa sa eskuelahan.
+1	Igwa	igwa	_	vblex	_	0	root	_	_
+2	na	na	_	link	_	3	aux:advmod	_	_
+3	naman	naman	_	adv	_	1	advmod	_	_
+4	programa	programa	_	n	_	1	nsubj	_	_
+5	sa	sa	_	pr	_	6	case	_	_
+6	eskuelahan	eskuelahan	_	n	_	1	obl	_	_
+7	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:9:245
+# text = An pinakaimportanteng produkto kan ciudad iyo an bagas, mais, kamote, gulay, niyog asin abaka.
+1	An	an	_	det	ind	3	det	_	_
+2	pinakaimportanteng	importante	_	adj	sg|sup	3	amod	_	_
+3	produkto	produkto	_	n	_	8	nsubj	_	_
+4	kan	kan	_	pr	_	5	case	_	_
+5	ciudad	ciudad	_	n	_	3	nmod	_	_
+6	iyo	iyo	_	adv	_	8	advmod	_	_
+7	an	an	_	det	ind	8	det	_	_
+8	bagas	bagas	_	n	_	0	root	_	_
+9	,	,	_	cm	_	10	punct	_	_
+10	mais	mais	_	n	_	8	conj	_	_
+11	,	,	_	cm	_	12	punct	_	_
+12	kamote	kamote	_	n	_	8	conj	_	_
+13	,	,	_	cm	_	14	punct	_	_
+14	gulay	gulay	_	n	_	8	conj	_	_
+15	,	,	_	cm	_	16	punct	_	_
+16	niyog	niyog	_	_	_	8	conj	_	_
+17	asin	asin	_	cnjcoo	_	18	cc	_	_
+18	abaka	abaka	_	n	_	8	conj	_	_
+19	.	.	_	sent	_	8	punct	_	_
+
+# sent_id = bcl:10:284
+# text = Ini may apat na eskalon.
+1	Ini	iní	_	prn	dem	2	nsubj	_	_
+2	may	may	_	vblex	_	0	root	_	_
+3	apat	apat	_	num	_	5	nummod	_	_
+4	na	na	_	link	_	3	aux:nummod	_	_
+5	eskalon	eskalon	_	n	_	2	obj	_	_
+6-7	.	_	_	_	_	_	_	_	_
+6	.	.	_	sent	_	2	punct	_	_
+7	_	.	_	sent	_	2	punct	_	_
+
+

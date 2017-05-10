@@ -1,0 +1,134 @@
+# sent_id = bcl:1:0
+# text = An educacion sa elementaria dapat na sarong obligacion.
+1	An	_	_	_	_	2	det	_	_
+2	educacion	_	_	_	_	5	nsubj	_	_
+3	sa	_	_	_	_	4	case	_	_
+4	elementaria	_	_	_	_	2	amod	_	_
+5	dapat	_	_	_	_	0	root	_	_
+6	na	_	_	_	_	5	dep	_	_
+7	sarong	_	_	_	_	8	det	_	_
+8	obligacion	_	_	_	_	5	obj	_	_
+9	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:2:18
+# text = Ini tinago niya sa sarong kusinilya.
+1	Ini	_	_	_	_	2	obj	_	_
+2	tinago	_	_	_	_	0	root	_	_
+3	niya	_	_	_	_	2	nsubj	_	_
+4	sa	_	_	_	_	6	case	_	_
+5	sarong	_	_	_	_	6	det	_	_
+6	kusinilya	_	_	_	_	2	obl	_	_
+7	.	_	_	_	_	2	punct	_	_
+
+# sent_id = bcl:3:33
+# text = Namumugtak ini sa Rehiyon Bikol sa sursulnopan na puro kan isla nin Luzon.
+1	Namumugtak	_	_	_	_	0	root	_	_
+2	ini	_	_	_	_	1	nsubj	_	_
+3	sa	_	_	_	_	4	case	_	_
+4	Rehiyon	_	_	_	_	1	obl	_	_
+5	Bikol	_	_	_	_	4	fixed	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	sursulnopan	_	_	_	_	4	nmod	_	_
+8	na	_	_	_	_	9	aux:nmod	_	_
+9	puro	_	_	_	_	7	nmod	_	_
+10	kan	_	_	_	_	11	case	_	_
+11	isla	_	_	_	_	9	nmod	_	_
+12	nin	_	_	_	_	13	case	_	_
+13	Luzon	_	_	_	_	11	obl	_	_
+14	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:4:62
+# text = Naga droga kamo diyan?
+1	Naga	_	_	_	_	0	root	_	_
+2	droga	_	_	_	_	1	obj	_	_
+3	kamo	_	_	_	_	1	nsubj	_	_
+4	diyan	_	_	_	_	1	advmod	_	_
+5	?	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:5:73
+# text = Ano an ngaran mo?
+1	Ano	_	_	_	_	3	advmod	_	_
+2	an	_	_	_	_	3	det	_	_
+3	ngaran	_	_	_	_	0	root	_	_
+4	mo	_	_	_	_	3	nsubj	_	_
+5	?	_	_	_	_	3	punct	_	_
+
+# sent_id = bcl:6:84
+# text = May turista na puti nagduman sa San Jose.
+1	May	_	_	_	_	0	root	_	_
+2	turista	_	_	_	_	1	nsubj	_	_
+3	na	_	_	_	_	4	aux:amod	_	_
+4	puti	_	_	_	_	2	amod	_	_
+5	nagduman	_	_	_	_	1	advcl	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	San	_	_	_	_	5	obl	_	_
+8	Jose	_	_	_	_	7	flat	_	_
+9	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:7:103
+# text = Pinoy Big Brother an bersyon sa Filipino kan pasali sa telebisyon.
+1	Pinoy	_	_	_	_	3	amod	_	_
+2	Big	_	_	_	_	3	amod	_	_
+3	Brother	_	_	_	_	5	nsubj	_	_
+4	an	_	_	_	_	5	det	_	_
+5	bersyon	_	_	_	_	0	root	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	Filipino	_	_	_	_	5	amod	_	_
+8	kan	_	_	_	_	9	case	_	_
+9	pasali	_	_	_	_	5	obl	_	_
+10	sa	_	_	_	_	11	case	_	_
+11	telebisyon	_	_	_	_	9	obl	_	_
+12	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:8:128
+# text = An species o lahi, sarong biolohikal na klasipikasyon saka sarong klaseng rangong taxonomiya kan mga organismo.
+1	An	_	_	_	_	2	det	_	_
+2	species	_	_	_	_	9	nsubj	_	_
+3	o	_	_	_	_	4	cc	_	_
+4	lahi	_	_	_	_	2	conj	_	_
+5	,	_	_	_	_	9	punct	_	_
+6	sarong	_	_	_	_	9	det	_	_
+7	biolohikal	_	_	_	_	9	amod	_	_
+8	na	_	_	_	_	7	aux:amod	_	_
+9	klasipikasyon	_	_	_	_	0	root	_	_
+10	saka	_	_	_	_	12	cc	_	_
+11	sarong	_	_	_	_	12	det	_	_
+12	klaseng	_	_	_	_	9	conj	_	_
+13	rangong	_	_	_	_	12	nmod	_	_
+14	taxonomiya	_	_	_	_	13	nmod	_	_
+15	kan	_	_	_	_	17	case	_	_
+16	mga	_	_	_	_	17	det	_	_
+17	organismo	_	_	_	_	9	obl	_	_
+18	.	_	_	_	_	9	punct	_	_
+
+# sent_id = bcl:9:165
+# text = Sa pagkatapos kan Reconquista, nagin lenguahe ini kan enterong Espanya.
+1	Sa	_	_	_	_	2	case	_	_
+2	pagkatapos	_	_	_	_	6	obl	_	_
+3	kan	_	_	_	_	4	case	_	_
+4	Reconquista	_	_	_	_	2	nmod	_	_
+5	,	_	_	_	_	6	punct	_	_
+6	nagin	_	_	_	_	0	root	_	_
+7	lenguahe	_	_	_	_	6	obj	_	_
+8	ini	_	_	_	_	6	nsubj	_	_
+9	kan	_	_	_	_	11	case	_	_
+10	enterong	_	_	_	_	11	amod	_	_
+11	Espanya	_	_	_	_	7	obl	_	_
+12	.	_	_	_	_	6	punct	_	_
+
+# sent_id = bcl:10:190
+# text = May mga elemento man ining laban sa mga mikrobyo.
+1	May	_	_	_	_	0	root	_	_
+2	mga	_	_	_	_	3	det	_	_
+3	elemento	_	_	_	_	1	obj	_	_
+4	man	_	_	_	_	1	advmod	_	_
+5	ining	_	_	_	_	1	nsubj	_	_
+6	laban	_	_	_	_	1	case	_	_
+7	sa	_	_	_	_	6	fixed	_	_
+8	mga	_	_	_	_	9	det	_	_
+9	mikrobyo	_	_	_	_	1	obl	_	_
+10-11	.	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	1	punct	_	_
+11	_	_	_	_	_	1	punct	_	_
+
+

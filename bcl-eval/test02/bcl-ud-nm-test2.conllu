@@ -1,0 +1,177 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin gabos na mga derechos asin mga katalinkasan na ipinahayag sa Declaracion na ini.
+1	An	_	_	_	_	3	det	_	_
+2	lambang	_	_	_	_	3	amod	_	_
+3	saro	_	_	_	_	4	nsubj	_	_
+4	igwa	_	_	_	_	0	root	_	_
+5	nin	_	_	_	_	6	case	_	_
+6	gabos	_	_	_	_	3	nmod	_	_
+7	na	_	_	_	_	9	dep	_	_
+8	mga	_	_	_	_	9	det	_	_
+9	derechos	_	_	_	_	4	obj	_	_
+10	asin	_	_	_	_	12	cc	_	_
+11	mga	_	_	_	_	12	det	_	_
+12	katalinkasan	_	_	_	_	9	conj	_	_
+13	na	_	_	_	_	14	aux:amod	_	_
+14	ipinahayag	_	_	_	_	9	amod	_	_
+15	sa	_	_	_	_	16	case	_	_
+16	Declaracion	_	_	_	_	14	nmod	_	_
+17	na	_	_	_	_	18	aux:amod	_	_
+18	ini	_	_	_	_	16	amod	_	_
+19	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:2:38
+# text = Tinatayang may kaapil an grupo nin apat na gatos na gerilya sa kadakuli.
+1	Tinatayang	_	_	_	_	0	root	_	_
+2	may	_	_	_	_	3	case	_	_
+3	kaapil	_	_	_	_	1	obl	_	_
+4	an	_	_	_	_	5	det	_	_
+5	grupo	_	_	_	_	1	nsubj	_	_
+6	nin	_	_	_	_	7	case	_	_
+7	apat	_	_	_	_	9	nummod	_	_
+8	na	_	_	_	_	9	aux:nmod	_	_
+9	gatos	_	_	_	_	5	nmod	_	_
+10	na	_	_	_	_	11	aux:nmod	_	_
+11	gerilya	_	_	_	_	9	nmod	_	_
+12	sa	_	_	_	_	13	case	_	_
+13	kadakuli	_	_	_	_	0	obl	_	_
+14	.	_	_	_	_	0	punct	_	_
+
+# sent_id = bcl:3:67
+# text = An pamilya niya sinasabing gantad sa buhay.
+1	An	_	_	_	_	2	det	_	_
+2	pamilya	_	_	_	_	4	nsubj	_	_
+3	niya	_	_	_	_	2	nmod	_	_
+4	sinasabing	_	_	_	_	0	root	_	_
+5	gantad	_	_	_	_	4	obj	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	buhay	_	_	_	_	5	nmod	_	_
+8	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:4:84
+# text = An seksyon sa Ingles napapano sa baretang pulitikal asin sa mga presenteng pangyayari, mga artikulo sa turismo asin dapit sa agrikultura.
+1	An	_	_	_	_	2	det	_	_
+2	seksyon	_	_	_	_	5	nsubj	_	_
+3	sa	_	_	_	_	4	case	_	_
+4	Ingles	_	_	_	_	2	nmod	_	_
+5	napapano	_	_	_	_	0	root	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	baretang	_	_	_	_	5	obl	_	_
+8	pulitikal	_	_	_	_	7	amod	_	_
+9	asin	_	_	_	_	13	cc	_	_
+10	sa	_	_	_	_	13	case	_	_
+11	mga	_	_	_	_	13	det	_	_
+12	presenteng	_	_	_	_	13	amod	_	_
+13	pangyayari	_	_	_	_	7	conj	_	_
+14	,	_	_	_	_	16	punct	_	_
+15	mga	_	_	_	_	16	det	_	_
+16	artikulo	_	_	_	_	7	conj	_	_
+17	sa	_	_	_	_	18	case	_	_
+18	turismo	_	_	_	_	16	nmod	_	_
+19	asin	_	_	_	_	18	cc	_	_
+20	dapit	_	_	_	_	16	advmod	_	_
+21	sa	_	_	_	_	22	case	_	_
+22	agrikultura	_	_	_	_	20	obl	_	_
+23	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:5:131
+# text = Inaabot na archipelago an sarong grupo nin mga isla.
+1	Inaabot	_	_	_	_	0	root	_	_
+2	na	_	_	_	_	3	dep	_	_
+3	archipelago	_	_	_	_	1	nsubj	_	_
+4	an	_	_	_	_	6	det	_	_
+5	sarong	_	_	_	_	6	det	_	_
+6	grupo	_	_	_	_	1	obj	_	_
+7	nin	_	_	_	_	9	case	_	_
+8	mga	_	_	_	_	9	det	_	_
+9	isla	_	_	_	_	1	obl	_	_
+10	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:6:152
+# text = Anion kami sa banwa.
+1	Anion	_	_	_	_	0	root	_	_
+2	kami	_	_	_	_	1	nsubj	_	_
+3	sa	_	_	_	_	4	case	_	_
+4	banwa	_	_	_	_	1	obl	_	_
+5	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:7:163
+# text = Mabatahon an kobeta nindo.
+1	Mabatahon	_	_	_	_	0	root	_	_
+2	an	_	_	_	_	3	det	_	_
+3	kobeta	_	_	_	_	1	nsubj	_	_
+4	nindo	_	_	_	_	3	nmod	_	_
+5	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:8:174
+# text = Patoson mo na lang an pansit ta kakakanon mi iyan sa piknik.
+1	Patoson	_	_	_	_	0	root	_	_
+2	mo	_	_	_	_	1	nsubj	_	_
+3	na	_	_	_	_	4	aux:advmod	_	_
+4	lang	_	_	_	_	1	advmod	_	_
+5	an	_	_	_	_	6	det	_	_
+6	pansit	_	_	_	_	1	obj	_	_
+7	ta	_	_	_	_	8	cc	_	_
+8	kakakanon	_	_	_	_	1	conj	_	_
+9	mi	_	_	_	_	8	nsubj	_	_
+10	iyan	_	_	_	_	8	obj	_	_
+11	sa	_	_	_	_	12	case	_	_
+12	piknik	_	_	_	_	8	obl	_	_
+13	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:9:201
+# text = An syudad sarong urban na komunidad na igwa nin importanteng estado arog sa sarong banwaan.
+1	An	_	_	_	_	2	det	_	_
+2	syudad	_	_	_	_	6	nsubj	_	_
+3	sarong	_	_	_	_	6	det	_	_
+4	urban	_	_	_	_	6	amod	_	_
+5	na	_	_	_	_	4	aux:amod	_	_
+6	komunidad	_	_	_	_	0	root	_	_
+7	na	_	_	_	_	8	dep	_	_
+8	igwa	_	_	_	_	6	acl	_	_
+9	nin	_	_	_	_	11	case	_	_
+10	importanteng	_	_	_	_	11	amod	_	_
+11	estado	_	_	_	_	8	obj	_	_
+12	arog	_	_	_	_	16	case	_	_
+13	sa	_	_	_	_	16	case	_	_
+14	sarong	_	_	_	_	16	det	_	_
+15	banwaan	_	_	_	_	11	obl	_	_
+16	.	_	_	_	_	6	punct	_	_
+
+# sent_id = bcl:10:234
+# text = An mga maskarang ini ipinaparada pa bilang rebolusyonaryong bandera sa mga kalye kan Paris.
+1	An	_	_	_	_	3	det	_	_
+2	mga	_	_	_	_	3	det	_	_
+3	maskarang	_	_	_	_	5	obl	_	_
+4	ini	_	_	_	_	5	nsubj	_	_
+5	ipinaparada	_	_	_	_	0	root	_	_
+6	pa	_	_	_	_	5	advmod	_	_
+7	bilang	_	_	_	_	5	xcomp	_	_
+8	rebolusyonaryong	_	_	_	_	9	amod	_	_
+9	bandera	_	_	_	_	7	obj	_	_
+10	sa	_	_	_	_	12	case	_	_
+11	mga	_	_	_	_	12	det	_	_
+12	kalye	_	_	_	_	8	obl	_	_
+13	kan	_	_	_	_	14	case	_	_
+14	Paris	_	_	_	_	8	obl	_	_
+15	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:11:265
+# text = Si Heneral Brehon Somerell an maigot na nagandorog asin nagtolod kan proyekto.
+1	Si	_	_	_	_	2	det	_	_
+2	Heneral	_	_	_	_	6	nsubj	_	_
+3	Brehon	_	_	_	_	2	flat	_	_
+4	Somerell	_	_	_	_	2	flat	_	_
+5	an	_	_	_	_	6	det	_	_
+6	maigot	_	_	_	_	0	root	_	_
+7	na	_	_	_	_	8	aux:amod	_	_
+8	nagandorog	_	_	_	_	6	amod	_	_
+9	asin	_	_	_	_	10	cc	_	_
+10	nagtolod	_	_	_	_	8	conj	_	_
+11	kan	_	_	_	_	12	case	_	_
+12	proyekto	_	_	_	_	6	nmod	_	_
+13-14	.	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	6	punct	_	_
+14	_	_	_	_	_	6	punct	_	_
+
+

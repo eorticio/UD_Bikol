@@ -1,0 +1,177 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin gabos na mga derechos asin mga katalinkasan na ipinahayag sa Declaracion na ini.
+1	An	an	_	det	ind	3	det	_	_
+2	lambang	lambang	_	adj	sg	3	amod	_	_
+3	saro	saro	_	n	_	4	nsubj	_	_
+4	igwa	igwa	_	vblex	_	0	root	_	_
+5	nin	nin	_	pr	_	6	case	_	_
+6	gabos	gabos	_	n	_	3	nmod	_	_
+7	na	na	_	link	_	9	dep	_	_
+8	mga	mga	_	pl	_	9	det	_	_
+9	derechos	derechos	_	n	_	4	obj	_	_
+10	asin	asin	_	cnjcoo	_	12	cc	_	_
+11	mga	mga	_	pl	_	12	det	_	_
+12	katalinkasan	katalinkasan	_	n	_	9	conj	_	_
+13	na	na	_	link	_	14	aux:amod	_	_
+14	ipinahayag	ipinahayag	_	adj	sg	9	amod	_	_
+15	sa	sa	_	pr	_	16	case	_	_
+16	Declaracion	declaracion	_	n	_	14	nmod	_	_
+17	na	na	_	link	_	18	aux:amod	_	_
+18	ini	ini	_	adj	sg	16	amod	_	_
+19	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:2:38
+# text = Tinatayang may kaapil an grupo nin apat na gatos na gerilya sa kadakuli.
+1	Tinatayang	Tinatayang	_	vblex	pres	0	root	_	_
+2	may	may	_	adv	_	3	case	_	_
+3	kaapil	kaapil	_	n	_	1	obl	_	_
+4	an	an	_	det	ind	5	det	_	_
+5	grupo	grupo	_	n	_	1	nsubj	_	_
+6	nin	nin	_	pr	_	7	case	_	_
+7	apat	apat	_	num	_	9	nummod	_	_
+8	na	na	_	link	_	9	aux:nmod	_	_
+9	gatos	gatos	_	n	_	5	nmod	_	_
+10	na	na	_	link	_	11	aux:nmod	_	_
+11	gerilya	gerilya	_	n	_	9	nmod	_	_
+12	sa	sa	_	pr	_	13	case	_	_
+13	kadakuli	kadakuli	_	n	_	0	obl	_	_
+14	.	.	_	sent	_	0	punct	_	_
+
+# sent_id = bcl:3:67
+# text = An pamilya niya sinasabing gantad sa buhay.
+1	An	an	_	det	ind	2	det	_	_
+2	pamilya	pamilya	_	n	_	4	nsubj	_	_
+3	niya	niyá	_	prn	p3|sg	2	nmod	_	_
+4	sinasabing	sabi	_	vblex	_	0	root	_	_
+5	gantad	gantad	_	n	_	4	obj	_	_
+6	sa	sa	_	pr	_	7	case	_	_
+7	buhay	buhay	_	n	_	5	nmod	_	_
+8	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:4:84
+# text = An seksyon sa Ingles napapano sa baretang pulitikal asin sa mga presenteng pangyayari, mga artikulo sa turismo asin dapit sa agrikultura.
+1	An	an	_	det	ind	2	det	_	_
+2	seksyon	seksyon	_	n	_	5	nsubj	_	_
+3	sa	sa	_	pr	_	4	case	_	_
+4	Ingles	Ingles	_	cog	_	2	nmod	_	_
+5	napapano	pano	_	adj	sg	0	root	_	_
+6	sa	sa	_	pr	_	7	case	_	_
+7	baretang	baretang	_	n	_	5	obl	_	_
+8	pulitikal	pulitikal	_	adj	sg	7	amod	_	_
+9	asin	asin	_	cnjcoo	_	13	cc	_	_
+10	sa	sa	_	pr	_	13	case	_	_
+11	mga	mga	_	pl	_	13	det	_	_
+12	presenteng	presenteng	_	adj	sg	13	amod	_	_
+13	pangyayari	yari	_	n	_	7	conj	_	_
+14	,	,	_	cm	_	16	punct	_	_
+15	mga	mga	_	pl	_	16	det	_	_
+16	artikulo	artikulo	_	n	_	7	conj	_	_
+17	sa	sa	_	pr	_	18	case	_	_
+18	turismo	turismo	_	n	_	16	nmod	_	_
+19	asin	asin	_	cnjcoo	_	18	cc	_	_
+20	dapit	dapit	_	adv	_	16	advmod	_	_
+21	sa	sa	_	pr	_	22	case	_	_
+22	agrikultura	agrikultura	_	n	_	20	obl	_	_
+23	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:5:131
+# text = Inaabot na archipelago an sarong grupo nin mga isla.
+1	Inaabot	abot	_	vblex	past	0	root	_	_
+2	na	na	_	link	_	3	dep	_	_
+3	archipelago	archipelago	_	n	_	1	nsubj	_	_
+4	an	an	_	det	ind	6	det	_	_
+5	sarong	sarong	_	det	ind	6	det	_	_
+6	grupo	grupo	_	n	_	1	obj	_	_
+7	nin	nin	_	pr	_	9	case	_	_
+8	mga	mga	_	pl	_	9	det	_	_
+9	isla	isla	_	n	_	1	obl	_	_
+10	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:6:152
+# text = Anion kami sa banwa.
+1	Anion	anion	_	vblex	inf	0	root	_	_
+2	kami	kamí	_	prn	p1|pl	1	nsubj	_	_
+3	sa	sa	_	pr	_	4	case	_	_
+4	banwa	banwa	_	n	_	1	obl	_	_
+5	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:7:163
+# text = Mabatahon an kobeta nindo.
+1	Mabatahon	bata	_	vblex	inf	0	root	_	_
+2	an	an	_	det	ind	3	det	_	_
+3	kobeta	kobeta	_	n	_	1	nsubj	_	_
+4	nindo	nindó	_	prn	p3|pl	3	nmod	_	_
+5	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:8:174
+# text = Patoson mo na lang an pansit ta kakakanon mi iyan sa piknik.
+1	Patoson	patós	_	vblex	inf	0	root	_	_
+2	mo	mo	_	prn	p2|sg	1	nsubj	_	_
+3	na	na	_	link	_	4	aux:advmod	_	_
+4	lang	lang	_	adv	_	1	advmod	_	_
+5	an	an	_	det	ind	6	det	_	_
+6	pansit	pansit	_	n	_	1	obj	_	_
+7	ta	ta	_	cnjcoo	_	8	cc	_	_
+8	kakakanon	kakan	_	vblex	fti	1	conj	_	_
+9	mi	mi	_	prn	p1|pl	8	nsubj	_	_
+10	iyan	iyan	_	prn	dem	8	obj	_	_
+11	sa	sa	_	pr	_	12	case	_	_
+12	piknik	piknik	_	n	_	8	obl	_	_
+13	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:9:201
+# text = An syudad sarong urban na komunidad na igwa nin importanteng estado arog sa sarong banwaan.
+1	An	an	_	det	ind	2	det	_	_
+2	syudad	syudad	_	_	_	6	nsubj	_	_
+3	sarong	sarong	_	det	ind	6	det	_	_
+4	urban	urban	_	adj	sg	6	amod	_	_
+5	na	na	_	link	_	4	aux:amod	_	_
+6	komunidad	komunidad	_	n	_	0	root	_	_
+7	na	na	_	link	_	8	dep	_	_
+8	igwa	igwa	_	vblex	_	6	acl	_	_
+9	nin	nin	_	pr	_	11	case	_	_
+10	importanteng	importante	_	adj	sg	11	amod	_	_
+11	estado	estado	_	n	_	8	obj	_	_
+12	arog	arog	_	pr	_	16	case	_	_
+13	sa	sa	_	pr	_	16	case	_	_
+14	sarong	sarong	_	det	ind	16	det	_	_
+15	banwaan	banwaan	_	n	_	11	obl	_	_
+16	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = bcl:10:234
+# text = An mga maskarang ini ipinaparada pa bilang rebolusyonaryong bandera sa mga kalye kan Paris.
+1	An	an	_	det	ind	3	det	_	_
+2	mga	mga	_	pl	_	3	det	_	_
+3	maskarang	maskara	_	n	_	5	obl	_	_
+4	ini	iní	_	prn	dem	5	nsubj	_	_
+5	ipinaparada	parada	_	vblex	inf	0	root	_	_
+6	pa	pa	_	adv	_	5	advmod	_	_
+7	bilang	bilang	_	vblex	_	5	xcomp	_	_
+8	rebolusyonaryong	rebolusyonaryong	_	_	_	9	amod	_	_
+9	bandera	bandera	_	n	_	7	obj	_	_
+10	sa	sa	_	pr	_	12	case	_	_
+11	mga	mga	_	pl	_	12	det	_	_
+12	kalye	kalye	_	n	_	8	obl	_	_
+13	kan	kan	_	pr	_	14	case	_	_
+14	Paris	Paris	_	cog	_	8	obl	_	_
+15	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:11:265
+# text = Si Heneral Brehon Somerell an maigot na nagandorog asin nagtolod kan proyekto.
+1	Si	si	_	det	def	2	det	_	_
+2	Heneral	Heneral	_	n	_	6	nsubj	_	_
+3	Brehon	Brehon	_	cog	_	2	flat	_	_
+4	Somerell	Somervell	_	cog	_	2	flat	_	_
+5	an	an	_	det	ind	6	det	_	_
+6	maigot	maigot	_	n	_	0	root	_	_
+7	na	na	_	link	_	8	aux:amod	_	_
+8	nagandorog	andorog	_	adj	sg	6	amod	_	_
+9	asin	asin	_	cnjcoo	_	10	cc	_	_
+10	nagtolod	tolod	_	adj	sg	8	conj	_	_
+11	kan	kan	_	pr	_	12	case	_	_
+12	proyekto	proyekto	_	n	_	6	nmod	_	_
+13-14	.	_	_	_	_	_	_	_	_
+13	.	.	_	sent	_	6	punct	_	_
+14	_	.	_	sent	_	6	punct	_	_
+
+

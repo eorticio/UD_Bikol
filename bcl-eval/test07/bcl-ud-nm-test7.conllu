@@ -1,0 +1,153 @@
+# sent_id = bcl:1:0
+# text = An kabotan kan banwaan iyo an dapat na pinaghahalean kan autoridad kan gobierno;
+1	An	_	_	_	_	2	det	_	_
+2	kabotan	_	_	_	_	9	nsubj	_	_
+3	kan	_	_	_	_	4	case	_	_
+4	banwaan	_	_	_	_	2	nmod	_	_
+5	iyo	_	_	_	_	9	advmod	_	_
+6	an	_	_	_	_	9	det	_	_
+7	dapat	_	_	_	_	9	aux	_	_
+8	na	_	_	_	_	7	dep	_	_
+9	pinaghahalean	_	_	_	_	0	root	_	_
+10	kan	_	_	_	_	11	case	_	_
+11	autoridad	_	_	_	_	9	obj	_	_
+12	kan	_	_	_	_	13	case	_	_
+13	gobierno	_	_	_	_	11	nmod	_	_
+14	;	_	_	_	_	9	punct	_	_
+
+# sent_id = bcl:2:28
+# text = An aripompon kaini pwedeng ginatos na ribo asin aboton pang milyon.
+1	An	_	_	_	_	2	det	_	_
+2	aripompon	_	_	_	_	5	nsubj	_	_
+3	kaini	_	_	_	_	2	nmod	_	_
+4	pwedeng	_	_	_	_	5	aux	_	_
+5	ginatos	_	_	_	_	0	root	_	_
+6	na	_	_	_	_	7	dep	_	_
+7	ribo	_	_	_	_	5	obj	_	_
+8	asin	_	_	_	_	9	cc	_	_
+9	aboton	_	_	_	_	5	conj	_	_
+10	pang	_	_	_	_	9	advmod	_	_
+11	milyon	_	_	_	_	9	obj	_	_
+12	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:3:53
+# text = Si Jose Maria Panganiban sarong propagandistang Pilipino.
+1	Si	_	_	_	_	2	det	_	_
+2	Jose	_	_	_	_	6	nsubj	_	_
+3	Maria	_	_	_	_	2	flat	_	_
+4	Panganiban	_	_	_	_	2	flat	_	_
+5	sarong	_	_	_	_	6	det	_	_
+6	propagandistang	_	_	_	_	0	root	_	_
+7	Pilipino	_	_	_	_	6	amod	_	_
+8	.	_	_	_	_	6	punct	_	_
+
+# sent_id = bcl:4:70
+# text = An guyabano ginigibohan naman nin arak.
+1	An	_	_	_	_	2	det	_	_
+2	guyabano	_	_	_	_	3	nsubj	_	_
+3	ginigibohan	_	_	_	_	0	root	_	_
+4	naman	_	_	_	_	3	advmod	_	_
+5	nin	_	_	_	_	6	case	_	_
+6	arak	_	_	_	_	3	obj	_	_
+7	.	_	_	_	_	3	punct	_	_
+
+# sent_id = bcl:5:86
+# text = Sa ibang lugar, an kanding ginagamit man sa paggoyod nin kariton ..
+1	Sa	_	_	_	_	2	case	_	_
+2	ibang	_	_	_	_	7	advcl	_	_
+3	lugar	_	_	_	_	2	nsubj	_	_
+4	,	_	_	_	_	6	punct	_	_
+5	an	_	_	_	_	6	det	_	_
+6	kanding	_	_	_	_	7	nsubj	_	_
+7	ginagamit	_	_	_	_	0	root	_	_
+8	man	_	_	_	_	7	advmod	_	_
+9	sa	_	_	_	_	10	det	_	_
+10	paggoyod	_	_	_	_	7	obj	_	_
+11	nin	_	_	_	_	12	case	_	_
+12	kariton	_	_	_	_	10	nmod	_	_
+13	..	_	_	_	_	7	punct	_	_
+
+# sent_id = bcl:6:113
+# text = Maray man kami digdi.
+1	Maray	_	_	_	_	0	root	_	_
+2	man	_	_	_	_	1	advmod	_	_
+3	kami	_	_	_	_	1	nsubj	_	_
+4	digdi	_	_	_	_	1	advmod	_	_
+5	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:7:124
+# text = Siya nagsusurat nin mga rawitdawit sa Gubatnon asin Bikol.
+1	Siya	_	_	_	_	2	nsubj	_	_
+2	nagsusurat	_	_	_	_	0	root	_	_
+3	nin	_	_	_	_	5	case	_	_
+4	mga	_	_	_	_	5	det	_	_
+5	rawitdawit	_	_	_	_	2	obj	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	Gubatnon	_	_	_	_	2	obl	_	_
+8	asin	_	_	_	_	9	cc	_	_
+9	Bikol	_	_	_	_	7	conj	_	_
+10	.	_	_	_	_	2	punct	_	_
+
+# sent_id = bcl:8:145
+# text = Igwa pa palan kaming sarong lecture.
+1	Igwa	_	_	_	_	0	root	_	_
+2	pa	_	_	_	_	1	advmod	_	_
+3	palan	_	_	_	_	2	advmod	_	_
+4	kaming	_	_	_	_	1	nsubj	_	_
+5	sarong	_	_	_	_	6	det	_	_
+6	lecture	_	_	_	_	1	obj	_	_
+7	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:9:160
+# text = An banwaan kan Jolo, an kapitolyo kaini asin sinasakop niya an mga isla sa tahaw na parte kan arkipelago kan Sulu.
+1	An	_	_	_	_	2	det	_	_
+2	banwaan	_	_	_	_	14	acl	_	_
+3	kan	_	_	_	_	4	case	_	_
+4	Jolo	_	_	_	_	2	obl	_	_
+5	,	_	_	_	_	14	punct	_	_
+6	an	_	_	_	_	7	det	_	_
+7	kapitolyo	_	_	_	_	14	nsubj	_	_
+8	kaini	_	_	_	_	7	det	_	_
+9	asin	_	_	_	_	10	cc	_	_
+10	sinasakop	_	_	_	_	7	conj	_	_
+11	niya	_	_	_	_	10	nmod	_	_
+12	an	_	_	_	_	14	det	_	_
+13	mga	_	_	_	_	14	det	_	_
+14	isla	_	_	_	_	0	root	_	_
+15	sa	_	_	_	_	16	case	_	_
+16	tahaw	_	_	_	_	18	nmod	_	_
+17	na	_	_	_	_	18	aux:nmod	_	_
+18	parte	_	_	_	_	20	nmod	_	_
+19	kan	_	_	_	_	20	case	_	_
+20	arkipelago	_	_	_	_	14	obl	_	_
+21	kan	_	_	_	_	22	case	_	_
+22	Sulu	_	_	_	_	20	obl	_	_
+23	.	_	_	_	_	14	punct	_	_
+
+# sent_id = bcl:10:207
+# text = Siya namundag sa barrio kan Sto. Tomas, Pasig asin an mga magurang niya sinda Pedro Angeles asin Fortunata Lakandula.
+1	Siya	_	_	_	_	2	nsubj	_	_
+2	namundag	_	_	_	_	0	root	_	_
+3	sa	_	_	_	_	4	case	_	_
+4	barrio	_	_	_	_	2	obl	_	_
+5	kan	_	_	_	_	6	case	_	_
+6	Sto.	_	_	_	_	2	obl	_	_
+7	Tomas	_	_	_	_	6	flat	_	_
+8	,	_	_	_	_	9	punct	_	_
+9	Pasig	_	_	_	_	6	flat	_	_
+10	asin	_	_	_	_	14	cc	_	_
+11	an	_	_	_	_	13	det	_	_
+12	mga	_	_	_	_	13	det	_	_
+13	magurang	_	_	_	_	14	amod	_	_
+14	niya	_	_	_	_	1	conj	_	_
+15	sinda	_	_	_	_	2	obj	_	_
+16	Pedro	_	_	_	_	15	nmod	_	_
+17	Angeles	_	_	_	_	16	flat	_	_
+18	asin	_	_	_	_	19	cc	_	_
+19	Fortunata	_	_	_	_	16	conj	_	_
+20	Lakandula	_	_	_	_	19	flat	_	_
+21-22	.	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	2	punct	_	_
+22	_	_	_	_	_	2	punct	_	_
+
+

@@ -1,0 +1,153 @@
+# sent_id = bcl:1:0
+# text = An mga residente digdi inaapod na Nagueños.
+1	An	_	_	_	_	3	det	_	_
+2	mga	_	_	_	_	3	det	_	_
+3	residente	_	_	_	_	5	nsubj	_	_
+4	digdi	_	_	_	_	5	advmod	_	_
+5	inaapod	_	_	_	_	0	root	_	_
+6	na	_	_	_	_	7	det	_	_
+7	Nagueños	_	_	_	_	5	obl	_	_
+8	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:2:16
+# text = Namundag siya sa sarong prominenteng pamilya sa Nueva Caceres, Camarines Sur, Filipinas.
+1	Namundag	_	_	_	_	0	root	_	_
+2	siya	_	_	_	_	1	nsubj	_	_
+3	sa	_	_	_	_	6	case	_	_
+4	sarong	_	_	_	_	5	det	_	_
+5	prominenteng	_	_	_	_	6	amod	_	_
+6	pamilya	_	_	_	_	1	obl	_	_
+7	sa	_	_	_	_	8	case	_	_
+8	Nueva	_	_	_	_	1	obl	_	_
+9	Caceres	_	_	_	_	8	flat	_	_
+10	,	_	_	_	_	11	punct	_	_
+11	Camarines	_	_	_	_	8	flat	_	_
+12	Sur	_	_	_	_	8	flat	_	_
+13	,	_	_	_	_	14	punct	_	_
+14	Filipinas	_	_	_	_	8	flat	_	_
+15	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:3:47
+# text = Namundag siya sa sarong prominenteng pamilya sa Nueva Caceres, Camarines Sur, Filipinas.
+1	Namundag	_	_	_	_	0	root	_	_
+2	siya	_	_	_	_	1	nsubj	_	_
+3	sa	_	_	_	_	6	case	_	_
+4	sarong	_	_	_	_	5	det	_	_
+5	prominenteng	_	_	_	_	6	amod	_	_
+6	pamilya	_	_	_	_	1	obl	_	_
+7	sa	_	_	_	_	8	case	_	_
+8	Nueva	_	_	_	_	1	obl	_	_
+9	Caceres	_	_	_	_	8	flat	_	_
+10	,	_	_	_	_	11	punct	_	_
+11	Camarines	_	_	_	_	8	flat	_	_
+12	Sur	_	_	_	_	8	flat	_	_
+13	,	_	_	_	_	14	punct	_	_
+14	Filipinas	_	_	_	_	8	flat	_	_
+15	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:4:78
+# text = Ma abroad daa si pinsan ko.
+1	Ma	_	_	_	_	2	dep	_	_
+2	abroad	_	_	_	_	0	root	_	_
+3	daa	_	_	_	_	2	advmod	_	_
+4	si	_	_	_	_	5	det	_	_
+5	pinsan	_	_	_	_	2	nsubj	_	_
+6	ko	_	_	_	_	5	nmod	_	_
+7	.	_	_	_	_	2	punct	_	_
+
+# sent_id = bcl:5:93
+# text = Magagayon si karawat sa eskuelahan.
+1	Magagayon	_	_	_	_	0	root	_	_
+2	si	_	_	_	_	3	det	_	_
+3	karawat	_	_	_	_	1	nsubj	_	_
+4	sa	_	_	_	_	5	case	_	_
+5	eskuelahan	_	_	_	_	1	obl	_	_
+6	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:6:106
+# text = Matuga na naman siguro an bulkan Mayon.
+1	Matuga	_	_	_	_	0	root	_	_
+2	na	_	_	_	_	3	aux:advmod	_	_
+3	naman	_	_	_	_	1	advmod	_	_
+4	siguro	_	_	_	_	1	advmod	_	_
+5	an	_	_	_	_	6	det	_	_
+6	bulkan	_	_	_	_	1	nsubj	_	_
+7	Mayon	_	_	_	_	6	nmod	_	_
+8	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:7:123
+# text = Halion mo an mga papers sa lamesa ta pigkorehiran na iyan.
+1	Halion	_	_	_	_	0	root	_	_
+2	mo	_	_	_	_	1	nsubj	_	_
+3	an	_	_	_	_	5	det	_	_
+4	mga	_	_	_	_	5	det	_	_
+5	papers	_	_	_	_	1	obj	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	lamesa	_	_	_	_	0	obl	_	_
+8	ta	_	_	_	_	9	cc	_	_
+9	pigkorehiran	_	_	_	_	1	conj	_	_
+10	na	_	_	_	_	11	aux:advmod	_	_
+11	iyan	_	_	_	_	9	advmod	_	_
+12	.	_	_	_	_	0	punct	_	_
+
+# sent_id = bcl:8:148
+# text = An sarong species may kakayahang magpalahi asin maggibo nin mga ugbon na pwedeng umaki.
+1	An	_	_	_	_	2	det	_	_
+2	sarong	_	_	_	_	3	det	_	_
+3	species	_	_	_	_	4	nsubj	_	_
+4	may	_	_	_	_	0	root	_	_
+5	kakayahang	_	_	_	_	6	amod	_	_
+6	magpalahi	_	_	_	_	4	obj	_	_
+7	asin	_	_	_	_	8	cc	_	_
+8	maggibo	_	_	_	_	4	conj	_	_
+9	nin	_	_	_	_	11	case	_	_
+10	mga	_	_	_	_	11	det	_	_
+11	ugbon	_	_	_	_	8	obj	_	_
+12	na	_	_	_	_	14	mark	_	_
+13	pwedeng	_	_	_	_	14	aux	_	_
+14	umaki	_	_	_	_	8	csubj	_	_
+15	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:9:180
+# text = Dakula ang impluensya kaini sa gabos na tataramon sa Pilipinas, pati na sa Rehiyon Bikol ta dakulon kan bocabulario kaini hale sa Espanyol.
+1	Dakula	_	_	_	_	0	root	_	_
+2	ang	_	_	_	_	3	det	_	_
+3	impluensya	_	_	_	_	1	nsubj	_	_
+4	kaini	_	_	_	_	3	det	_	_
+5	sa	_	_	_	_	8	case	_	_
+6	gabos	_	_	_	_	8	det	_	_
+7	na	_	_	_	_	6	dep	_	_
+8	tataramon	_	_	_	_	1	obl	_	_
+9	sa	_	_	_	_	10	case	_	_
+10	Pilipinas	_	_	_	_	8	nmod	_	_
+11	,	_	_	_	_	15	punct	_	_
+12	pati	_	_	_	_	1	advmod	_	_
+13	na	_	_	_	_	12	fixed	_	_
+14	sa	_	_	_	_	15	case	_	_
+15	Rehiyon	_	_	_	_	1	obl	_	_
+16	Bikol	_	_	_	_	15	flat	_	_
+17	ta	_	_	_	_	18	cc	_	_
+18	dakulon	_	_	_	_	1	conj	_	_
+19	kan	_	_	_	_	20	case	_	_
+20	bocabulario	_	_	_	_	18	obl	_	_
+21	kaini	_	_	_	_	18	nsubj	_	_
+22	hale	_	_	_	_	20	amod	_	_
+23	sa	_	_	_	_	24	case	_	_
+24	Espanyol	_	_	_	_	18	obl	_	_
+25	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:10:231
+# text = Siya hale nanggad sa pamilya nin mga boksingero.
+1	Siya	_	_	_	_	2	nsubj	_	_
+2	hale	_	_	_	_	0	root	_	_
+3	nanggad	_	_	_	_	2	advmod	_	_
+4	sa	_	_	_	_	5	det	_	_
+5	pamilya	_	_	_	_	2	obj	_	_
+6	nin	_	_	_	_	8	case	_	_
+7	mga	_	_	_	_	8	det	_	_
+8	boksingero	_	_	_	_	2	obl	_	_
+9-10	.	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	2	punct	_	_
+10	_	_	_	_	_	2	punct	_	_
+
+

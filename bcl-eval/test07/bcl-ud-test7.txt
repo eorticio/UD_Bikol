@@ -1,0 +1,250 @@
+"<An>"
+	"an" det ind @det #1->2
+"<kabotan>"
+	"kabotan" n @nsubj #2->9
+"<kan>"
+	"kan" pr @case #3->4
+"<banwaan>"
+	"banwaan" n @nmod #4->2
+"<iyo>"
+	"iyo" adv @advmod #5->9
+"<an>"
+	"an" det ind @det #6->9
+"<dapat>"
+	"dapat" vaux @aux #7->9
+"<na>"
+	"na" link @dep #8->7
+"<pinaghahalean>"
+	"pinaghahalean" vblex @root #9->0
+"<kan>"
+	"kan" pr @case #10->11
+"<autoridad>"
+	"autoridad" n @obj #11->9
+"<kan>"
+	"kan" pr @case #12->13
+"<gobierno>"
+	"gobierno" n @nmod #13->11
+"<;>"
+	";" sent @punct #14->9
+
+"<An>"
+	"an" det ind @det #1->2
+"<aripompon>"
+	"aripompon" n @nsubj #2->5
+"<kaini>"
+	"kainí" prn dem @nmod #3->2
+"<pwedeng>"
+	"pwedeng" vblex @aux #4->5
+"<ginatos>"
+	"ginatos" vblex @root #5->0
+"<na>"
+	"na" link @dep #6->7
+"<ribo>"
+	"ribo" num @obj #7->5
+"<asin>"
+	"asin" cnjcoo @cc #8->9
+"<aboton>"
+	"abot" vblex inf @conj #9->5
+"<pang>"
+	"pa" adv @advmod #10->9
+"<milyon>"
+	"milyon" num @obj #11->9
+"<.>"
+	"." sent @punct #12->5
+
+"<Si>"
+	"si" det def @det #1->2
+"<Jose>"
+	"Jose" cog @nsubj #2->6
+"<Maria>"
+	"Maria" cog @flat #3->2
+"<Panganiban>"
+	"Panganiban" cog @flat #4->2
+"<sarong>"
+	"sarong" det ind @det #5->6
+"<propagandistang>"
+	"propagandistang" n @root #6->0
+"<Pilipino>"
+	"Pilipino" cog @amod #7->6
+"<.>"
+	"." sent @punct #8->6
+
+
+"<An>"
+	"an" det ind @det #1->2
+"<guyabano>"
+	"guyabano" n @nsubj #2->3
+"<ginigibohan>"
+	"gibo" vblex @root #3->0
+"<naman>"
+	"naman" adv @advmod #4->3
+"<nin>"
+	"nin" pr @case #5->6
+"<arak>"
+	"arak" n @obj #6->3
+"<.>"
+	"." sent @punct #7->3
+
+"<Sa>"
+	"sa" pr @case #1->2
+"<ibang>"
+	"iba" vblex @advcl #2->7
+"<lugar>"
+	"lugar" n @nsubj #3->2
+"<,>"
+	"," cm @punct #4->6
+"<an>"
+	"an" det ind @det #5->6
+"<kanding>"
+	"kanding" n @nsubj #6->7
+"<ginagamit>"
+	"gamit"	vblex pres @root #7->0
+"<man>"
+	"man" adv @advmod #8->7
+"<sa>"
+	"sa" det def @det #9->10
+"<paggoyod>"
+	"goyod" n @obj #10->7
+"<nin>"
+	"nin" pr @case #11->12
+"<kariton>"
+	"kariton" n @nmod #12->10
+"<..>"
+	".." sent @punct #13->7
+
+"<Maray>"
+	"ray" adj sg @root #1->0
+"<man>"
+	"man" adv @advmod #2->1
+"<kami>"
+	"kamí" prn p1 pl @nsubj #3->1
+"<digdi>"
+	"digdi" adv @advmod #4->1
+"<.>"
+	"." sent @punct #5->1
+
+"<Siya>"
+	"siyá" prn p3 sg @nsubj #1->2
+"<nagsusurat>"
+	"surat" vblex fti @root #2->0
+"<nin>"
+	"nin" pr @case #3->5
+"<mga>"
+	"mga" pl @det #4->5
+"<rawitdawit>"
+	"rawitdawit" n @obj #5->2
+"<sa>"
+	"sa" pr @case #6->7
+"<Gubatnon>"
+	"Gubatnon" cog @obl #7->2
+"<asin>"
+	"asin" cnjcoo @cc #8->9
+"<Bikol>"
+	"Bikol" cog @conj #9->7
+"<.>"
+	"." sent @punct #10->2
+
+"<Igwa>"
+	"igwa" vblex @root #1->0
+"<pa>"
+	"pa" adv @advmod #2->1
+"<palan>"
+	"palan" adv @advmod #3->2
+"<kaming>"
+	"kami" prn p1 pl @nsubj #4->1
+"<sarong>"
+	"sarong" det ind @det #5->6
+"<lecture>"
+	"lecture" n @obj #6->1
+"<.>"
+	"." sent @punct #7->1
+
+"<An>"
+	"an" det ind @det #1->2
+"<banwaan>"
+	"banwaan" n @acl #2->14
+"<kan>"
+	"kan" pr @case #3->4
+"<Jolo>"
+	"Jolo" cog @obl #4->2
+"<,>"
+	"," cm @punct #5->14
+"<an>"
+	"an" det ind @det #6->7
+"<kapitolyo>"
+	"kapitolyo" n @nsubj #7->14
+"<kaini>"
+	"kaini" prn dem @det #8->7
+"<asin>"
+	"asin" cnjcoo @cc #9->10
+"<sinasakop>"
+	"sakop" n @conj #10->7
+"<niya>"
+	"niyá" prn p3 sg @nmod #11->10
+"<an>"
+	"an" det ind @det #12->14
+"<mga>"
+	"mga" pl @det #13->14
+"<isla>"
+	"isla" n @root #14->0
+"<sa>"
+	"sa" pr @case #15->16
+"<tahaw>"
+	"tahaw" n @nmod #16->18
+"<na>"
+	"na" link @aux:nmod #17->18
+"<parte>"
+	"parte" n @nmod #18->20
+"<kan>"
+	"kan" pr @case #19->20
+"<arkipelago>"
+	"arkipelago" n @obl #20->14
+"<kan>"
+	"kan" pr @case #21->22
+"<Sulu>"
+	"Sulu" cog @obl #22->20
+"<.>"
+	"." sent @punct #23->14
+
+"<Siya>"
+	"siyá" prn p3 sg @nsubj #1->2
+"<namundag>"
+	"mundag" vblex inf @root #2->0
+"<sa>"
+	"sa" pr @case #3->4
+"<barrio>"
+	"barrio" n @obl #4->2
+"<kan>"
+	"kan" pr @case #5->6
+"<Sto.>"
+	"Sto." cog @obl #6->2
+"<Tomas>"
+	"Tomas" cog @flat #7->6
+"<,>"
+	"," cm @punct #8->9
+"<Pasig>"
+	"Pasig" cog @flat #9->6
+"<asin>"
+	"asin" cnjcoo @cc #10->14
+"<an>"
+	"an" det ind @det #11->13
+"<mga>"
+	"mga" pl @det #12->13
+"<magurang>"
+	"gurang" adj sg @amod #13->14
+"<niya>"
+	"niyá" prn p3 sg @conj #14->1
+"<sinda>"
+	"sindá" prn p3 pl @obj #15->2
+"<Pedro>"
+	"Pedro" cog @nmod #16->15
+"<Angeles>"
+	"Angeles" cog @flat #17->16
+"<asin>"
+	"asin" cnjcoo @cc #18->19
+"<Fortunata>"
+	"Fortunata" cog @conj #19->16
+"<Lakandula>"
+	"Lakandula" cog @flat #20->19
+"<.>"
+	"." sent @punct #21->2

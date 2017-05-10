@@ -1,0 +1,126 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin derecho sa educacion.
+1	An	_	_	_	_	3	det	_	_
+2	lambang	_	_	_	_	3	amod	_	_
+3	saro	_	_	_	_	4	nsubj	_	_
+4	igwa	_	_	_	_	0	root	_	_
+5	nin	_	_	_	_	6	case	_	_
+6	derecho	_	_	_	_	4	obj	_	_
+7	sa	_	_	_	_	8	case	_	_
+8	educacion	_	_	_	_	6	nmod	_	_
+9	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:2:18
+# text = Asya an pinakadakula asin pinakamatawong kontinente sa kinaban.
+1	Asya	_	_	_	_	6	nsubj	_	_
+2	an	_	_	_	_	6	det	_	_
+3	pinakadakula	_	_	_	_	6	amod	_	_
+4	asin	_	_	_	_	5	cc	_	_
+5	pinakamatawong	_	_	_	_	3	conj	_	_
+6	kontinente	_	_	_	_	0	root	_	_
+7	sa	_	_	_	_	8	case	_	_
+8	kinaban	_	_	_	_	6	obl	_	_
+9	.	_	_	_	_	6	punct	_	_
+
+# sent_id = bcl:3:37
+# text = An Syudad nin Naga sarong primera klaseng syudad kan Filipinas.
+1	An	_	_	_	_	2	det	_	_
+2	Syudad	_	_	_	_	8	nsubj	_	_
+3	nin	_	_	_	_	4	case	_	_
+4	Naga	_	_	_	_	2	nmod	_	_
+5	sarong	_	_	_	_	8	det	_	_
+6	primera	_	_	_	_	8	amod	_	_
+7	klaseng	_	_	_	_	8	amod	_	_
+8	syudad	_	_	_	_	0	root	_	_
+9	kan	_	_	_	_	10	case	_	_
+10	Filipinas	_	_	_	_	8	nmod	_	_
+11	.	_	_	_	_	8	punct	_	_
+
+# sent_id = bcl:4:60
+# text = Noy, ano pigagibo mo?
+1	Noy	_	_	_	_	4	vocative	_	_
+2	,	_	_	_	_	4	punct	_	_
+3	ano	_	_	_	_	4	advmod	_	_
+4	pigagibo	_	_	_	_	0	root	_	_
+5	mo	_	_	_	_	4	nsubj	_	_
+6	?	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:5:73
+# text = Komusta kamo diyan?
+1	Komusta	_	_	_	_	0	root	_	_
+2	kamo	_	_	_	_	1	nsubj	_	_
+3	diyan	_	_	_	_	1	advmod	_	_
+4	?	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:6:82
+# text = Ang maestra mi mabuoton.
+1	Ang	_	_	_	_	2	det	_	_
+2	maestra	_	_	_	_	4	nsubj	_	_
+3	mi	_	_	_	_	2	nmod	_	_
+4	mabuoton	_	_	_	_	0	root	_	_
+5	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:7:93
+# text = Siya an nagorganisar asin nagin presidente kan Albay Writers Club.
+1	Siya	_	_	_	_	3	nsubj	_	_
+2	an	_	_	_	_	3	det	_	_
+3	nagorganisar	_	_	_	_	0	root	_	_
+4	asin	_	_	_	_	6	cc	_	_
+5	nagin	_	_	_	_	6	amod	_	_
+6	presidente	_	_	_	_	3	conj	_	_
+7	kan	_	_	_	_	8	case	_	_
+8	Albay	_	_	_	_	6	nmod	_	_
+9	Writers	_	_	_	_	8	compound	_	_
+10	Club	_	_	_	_	8	compound	_	_
+11	.	_	_	_	_	3	punct	_	_
+
+# sent_id = bcl:8:116
+# text = Pighapot ako niya kon dagos si test ninda.
+1	Pighapot	_	_	_	_	0	root	_	_
+2	ako	_	_	_	_	1	iobj	_	_
+3	niya	_	_	_	_	1	nsubj	_	_
+4	kon	_	_	_	_	5	cc	_	_
+5	dagos	_	_	_	_	1	conj	_	_
+6	si	_	_	_	_	7	det	_	_
+7	test	_	_	_	_	5	nsubj	_	_
+8	ninda	_	_	_	_	7	nmod	_	_
+9	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:9:136
+# text = An tataramon na Espanyol o Kastelyano sarong miembro kan grupong tataramon na Romanse.
+1	An	_	_	_	_	2	det	_	_
+2	tataramon	_	_	_	_	8	nsubj	_	_
+3	na	_	_	_	_	4	aux:amod	_	_
+4	Espanyol	_	_	_	_	2	amod	_	_
+5	o	_	_	_	_	6	cc	_	_
+6	Kastelyano	_	_	_	_	4	conj	_	_
+7	sarong	_	_	_	_	8	det	_	_
+8	miembro	_	_	_	_	0	root	_	_
+9	kan	_	_	_	_	10	case	_	_
+10	grupong	_	_	_	_	8	nmod	_	_
+11	tataramon	_	_	_	_	10	nmod	_	_
+12	na	_	_	_	_	13	aux:amod	_	_
+13	Romanse	_	_	_	_	11	amod	_	_
+14	.	_	_	_	_	8	punct	_	_
+
+# sent_id = bcl:10:165
+# text = An nagdesenyo asin nagpahaman kan edipisyong ini sinda Arkitekto Thomas Boada asin David Childs.
+1	An	_	_	_	_	2	det	_	_
+2	nagdesenyo	_	_	_	_	0	root	_	_
+3	asin	_	_	_	_	4	cc	_	_
+4	nagpahaman	_	_	_	_	2	conj	_	_
+5	kan	_	_	_	_	6	case	_	_
+6	edipisyong	_	_	_	_	2	nmod	_	_
+7	ini	_	_	_	_	2	nsubj	_	_
+8	sinda	_	_	_	_	2	obl	_	_
+9	Arkitekto	_	_	_	_	8	nmod	_	_
+10	Thomas	_	_	_	_	10	flat	_	_
+11	Boada	_	_	_	_	10	flat	_	_
+12	asin	_	_	_	_	14	cc	_	_
+13	David	_	_	_	_	10	conj	_	_
+14	Childs	_	_	_	_	14	flat	_	_
+15-16	.	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	2	punct	_	_
+16	_	_	_	_	_	2	punct	_	_
+
+

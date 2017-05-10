@@ -1,0 +1,147 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin derecho nin buhay, katalinkasan, asin seguridad nin pagkatawo.
+1	An	_	_	_	_	3	det	_	_
+2	lambang	_	_	_	_	3	amod	_	_
+3	saro	_	_	_	_	4	nsubj	_	_
+4	igwa	_	_	_	_	0	root	_	_
+5	nin	_	_	_	_	6	case	_	_
+6	derecho	_	_	_	_	4	obj	_	_
+7	nin	_	_	_	_	8	case	_	_
+8	buhay	_	_	_	_	6	nmod	_	_
+9	,	_	_	_	_	10	punct	_	_
+10	katalinkasan	_	_	_	_	8	conj	_	_
+11	,	_	_	_	_	13	punct	_	_
+12	asin	_	_	_	_	13	cc	_	_
+13	seguridad	_	_	_	_	8	conj	_	_
+14	nin	_	_	_	_	15	case	_	_
+15	pagkatawo	_	_	_	_	8	obl	_	_
+16	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:2:32
+# text = An Alabama sarong estado kan Estados Unidos.
+1	An	_	_	_	_	2	det	_	_
+2	Alabama	_	_	_	_	4	nsubj	_	_
+3	sarong	_	_	_	_	4	det	_	_
+4	estado	_	_	_	_	0	root	_	_
+5	kan	_	_	_	_	6	case	_	_
+6	Estados	_	_	_	_	4	obl	_	_
+7	Unidos	_	_	_	_	6	amod	_	_
+8	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:3:49
+# text = Namundag siya sa Cavite El Viejo.
+1	Namundag	_	_	_	_	0	root	_	_
+2	siya	_	_	_	_	1	nsubj	_	_
+3	sa	_	_	_	_	4	case	_	_
+4	Cavite	_	_	_	_	1	obl	_	_
+5	El	_	_	_	_	4	flat	_	_
+6	Viejo	_	_	_	_	4	flat	_	_
+7	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:4:64
+# text = An Chicago sarong syudad na namumugtak sa sur-subangan kan estado nin Illinois.
+1	An	_	_	_	_	2	det	_	_
+2	Chicago	_	_	_	_	4	nsubj	_	_
+3	sarong	_	_	_	_	4	det	_	_
+4	syudad	_	_	_	_	0	root	_	_
+5	na	_	_	_	_	6	aux:amod	_	_
+6	namumugtak	_	_	_	_	4	amod	_	_
+7	sa	_	_	_	_	8	case	_	_
+8	sur	_	_	_	_	4	obl	_	_
+9	-	_	_	_	_	8	compound	_	_
+10	subangan	_	_	_	_	8	compound	_	_
+11	kan	_	_	_	_	12	case	_	_
+12	estado	_	_	_	_	10	nmod	_	_
+13	nin	_	_	_	_	14	case	_	_
+14	Illinois	_	_	_	_	12	nmod	_	_
+15	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:5:95
+# text = An batayan kan mga doktrina nin Islam nakukua sa Koran.
+1	An	_	_	_	_	2	det	_	_
+2	batayan	_	_	_	_	8	nsubj	_	_
+3	kan	_	_	_	_	5	case	_	_
+4	mga	_	_	_	_	5	det	_	_
+5	doktrina	_	_	_	_	2	nmod	_	_
+6	nin	_	_	_	_	7	case	_	_
+7	Islam	_	_	_	_	5	nmod	_	_
+8	nakukua	_	_	_	_	0	root	_	_
+9	sa	_	_	_	_	10	case	_	_
+10	Koran	_	_	_	_	8	obl	_	_
+11	.	_	_	_	_	8	punct	_	_
+
+# sent_id = bcl:6:118
+# text = May signal an cellphone mo?
+1	May	_	_	_	_	0	root	_	_
+2	signal	_	_	_	_	1	obj	_	_
+3	an	_	_	_	_	4	det	_	_
+4	cellphone	_	_	_	_	1	nsubj	_	_
+5	mo	_	_	_	_	4	nmod	_	_
+6	?	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:7:131
+# text = An harong sadit sana pero malinig sa kusina.
+1	An	_	_	_	_	2	det	_	_
+2	harong	_	_	_	_	3	nsubj	_	_
+3	sadit	_	_	_	_	0	root	_	_
+4	sana	_	_	_	_	3	advmod	_	_
+5	pero	_	_	_	_	6	cc	_	_
+6	malinig	_	_	_	_	4	conj	_	_
+7	sa	_	_	_	_	8	case	_	_
+8	kusina	_	_	_	_	3	obl	_	_
+9	.	_	_	_	_	3	punct	_	_
+
+# sent_id = bcl:8:150
+# text = Darahon mo an libro ni Jose.
+1	Darahon	_	_	_	_	0	root	_	_
+2	mo	_	_	_	_	1	nsubj	_	_
+3	an	_	_	_	_	4	det	_	_
+4	libro	_	_	_	_	1	obj	_	_
+5	ni	_	_	_	_	6	case	_	_
+6	Jose	_	_	_	_	1	obl	_	_
+7	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:9:166
+# text = Dakol an bersiyon kan kapangaranan kan Tabaco.
+1	Dakol	_	_	_	_	3	det	_	_
+2	an	_	_	_	_	3	det	_	_
+3	bersiyon	_	_	_	_	0	root	_	_
+4	kan	_	_	_	_	5	case	_	_
+5	kapangaranan	_	_	_	_	3	obl	_	_
+6	kan	_	_	_	_	7	case	_	_
+7	Tabaco	_	_	_	_	3	obl	_	_
+8	.	_	_	_	_	3	punct	_	_
+
+# sent_id = bcl:10:183
+# text = An Londres an pinakamatawong ciudad sa Union Europea.
+1	An	_	_	_	_	2	det	_	_
+2	Londres	_	_	_	_	5	nsubj	_	_
+3	an	_	_	_	_	5	det	_	_
+4	pinakamatawong	_	_	_	_	5	amod	_	_
+5	ciudad	_	_	_	_	0	root	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	Union	_	_	_	_	5	obl	_	_
+8	Europea	_	_	_	_	7	flat	_	_
+9	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:11:202
+# text = An toga gibo sa pranela asin an tunic sa irarom parati gibo sa linen.
+1	An	_	_	_	_	2	det	_	_
+2	toga	_	_	_	_	3	nsubj	_	_
+3	gibo	_	_	_	_	0	root	_	_
+4	sa	_	_	_	_	5	case	_	_
+5	pranela	_	_	_	_	3	obj	_	_
+6	asin	_	_	_	_	12	cc	_	_
+7	an	_	_	_	_	8	det	_	_
+8	tunic	_	_	_	_	12	nsubj	_	_
+9	sa	_	_	_	_	8	amod	_	_
+10	irarom	_	_	_	_	9	fixed	_	_
+11	parati	_	_	_	_	12	advmod	_	_
+12	gibo	_	_	_	_	3	conj	_	_
+13	sa	_	_	_	_	14	case	_	_
+14	linen	_	_	_	_	12	obj	_	_
+15-16	.	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	3	punct	_	_
+16	_	_	_	_	_	3	punct	_	_
+
+

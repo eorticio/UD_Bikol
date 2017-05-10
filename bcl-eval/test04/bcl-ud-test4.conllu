@@ -1,0 +1,152 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin derecho nin pagkamidbid bilang sarong persona sa atubang nin ley.
+1	An	an	_	det	ind	3	det	_	_
+2	lambang	lambang	_	adj	sg	3	amod	_	_
+3	saro	saro	_	n	_	4	nsubj	_	_
+4	igwa	igwa	_	vblex	_	0	root	_	_
+5	nin	nin	_	pr	_	6	case	_	_
+6	derecho	derecho	_	n	_	4	obj	_	_
+7	nin	nin	_	pr	_	8	case	_	_
+8	pagkamidbid	pagkamidbid	_	adj	sg	6	amod	_	_
+9	bilang	bilang	_	vblex	_	6	acl	_	_
+10	sarong	sarong	_	det	ind	11	det	_	_
+11	persona	persona	_	n	_	10	nsubj	_	_
+12	sa	sa	_	pr	_	15	case	_	_
+13	atubang	atubang	_	n	_	12	fixed	_	_
+14	nin	nin	_	pr	_	15	case	_	_
+15	ley	ley	_	n	_	6	obl	_	_
+16	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:2:32
+# text = Pigtatanga ini kan Kanada sa norte asin Mehiko sa sur.
+1	Pigtatanga	tanga	_	vblex	pres	0	root	_	_
+2	ini	ini	_	prn	dem	1	nsubj	_	_
+3	kan	kan	_	pr	_	4	case	_	_
+4	Kanada	Kanada	_	cog	_	1	obj	_	_
+5	sa	sa	_	pr	_	6	case	_	_
+6	norte	norte	_	n	_	4	obl	_	_
+7	asin	asin	_	cnjcoo	_	8	cc	_	_
+8	Mehiko	Mehiko	_	cog	_	4	conj	_	_
+9	sa	sa	_	pr	_	10	case	_	_
+10	sur	sur	_	n	_	8	obl	_	_
+11	.	.	_	sent	_	0	punct	_	_
+
+# sent_id = bcl:3:56
+# text = Si Aguinaldo nagbalik sa pribado nang pamumuhay.
+1	Si	si	_	det	def	2	det	_	_
+2	Aguinaldo	Aguinaldo	_	cog	_	3	nsubj	_	_
+3	nagbalik	balik	_	vblex	inf	0	root	_	_
+4	sa	sa	_	pr	_	5	case	_	_
+5	pribado	pribado	_	n	_	3	obl	_	_
+6	nang	na	_	link	_	7	aux:nmod	_	_
+7	pamumuhay	pamumuhay	_	n	_	5	nmod	_	_
+8	.	.	_	sent	_	3	punct	_	_
+
+# sent_id = bcl:4:73
+# text = Ini an pinakamatawo na ciudad sa Estados Unidos asin saro sa mga pinakamatawo kan Nueva York o Los Angeles.
+1	Ini	ini	_	prn	dem	3	nsubj	_	_
+2	an	an	_	det	ind	3	det	_	_
+3	pinakamatawo	matawo	_	n	_	0	root	_	_
+4	na	na	_	link	_	5	aux:nmod	_	_
+5	ciudad	ciudad	_	n	_	3	nmod	_	_
+6	sa	sa	_	pr	_	7	case	_	_
+7	Estados	Estados	_	cog	_	5	obl	_	_
+8	Unidos	Unidos	_	adj	_	7	amod	_	_
+9	asin	asin	_	cnjcoo	_	10	cc	_	_
+10	saro	saro	_	n	_	7	conj	_	_
+11	sa	sa	_	pr	_	13	case	_	_
+12	mga	mga	_	pl	_	13	det	_	_
+13	pinakamatawo	matawo	_	n	_	10	nmod	_	_
+14	kan	kan	_	pr	_	15	case	_	_
+15	Nueva	Nueva	_	cog	_	10	obl	_	_
+16	York	York	_	cog	_	15	flat	_	_
+17	o	o	_	cnjcoo	_	18	cc	_	_
+18	Los	Los	_	cog	_	15	conj	_	_
+19	Angeles	Angeles	_	cog	_	18	flat	_	_
+20	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:5:114
+# text = Ini nagigikanan man nin mga elemento sa paggibo nin medisina, asayti, inomon, asin panhugas.
+1	Ini	ini	_	prn	dem	2	nsubj	_	_
+2	nagigikanan	gikan	_	vblex	_	0	root	_	_
+3	man	man	_	adv	_	2	advmod	_	_
+4	nin	nin	_	pr	_	6	case	_	_
+5	mga	mga	_	pl	_	6	det	_	_
+6	elemento	elemento	_	n	_	2	obl	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	paggibo	gibo	_	adj	sg	6	amod	_	_
+9	nin	nin	_	pr	_	10	case	_	_
+10	medisina	medisina	_	n	_	8	obl	_	_
+11	,	,	_	cm	_	12	punct	_	_
+12	asayti	asayti	_	n	_	10	conj	_	_
+13	,	,	_	cm	_	14	punct	_	_
+14	inomon	inomon	_	n	_	10	conj	_	_
+15	,	,	_	cm	_	17	punct	_	_
+16	asin	asin	_	cnjcoo	_	17	cc	_	_
+17	panhugas	panhugas	_	n	_	10	conj	_	_
+18	.	.	_	sent	_	2	punct	_	_
+
+# sent_id = bcl:6:151
+# text = Magayon an bado ni Maria.
+1	Magayon	gayón	_	adj	sg	0	root	_	_
+2	an	an	_	det	ind	3	det	_	_
+3	bado	bado	_	n	_	1	nsubj	_	_
+4	ni	ni	_	det	px3sg	5	det	_	_
+5	Maria	Maria	_	cog	_	3	nmod	_	_
+6	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:7:164
+# text = An tsinelas niya bago bakalon sa saudan.
+1	An	an	_	det	ind	2	det	_	_
+2	tsinelas	tsinelas	_	n	_	5	nsubj	_	_
+3	niya	niyá	_	prn	p3|sg	2	nmod	_	_
+4	bago	bago	_	adj	sg	2	amod	_	_
+5	bakalon	bakál	_	vblex	inf	0	root	_	_
+6	sa	sa	_	pr	_	7	case	_	_
+7	saudan	saudan	_	n	_	5	obl	_	_
+8	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:8:181
+# text = Ipapabisto ko saimo si Mario.
+1	Ipapabisto	pabisto	_	vblex	fti	0	root	_	_
+2	ko	ko	_	prn	p1|sg	1	nsubj	_	_
+3	saimo	saimo	_	prn	p2|sg	1	obj	_	_
+4	si	si	_	link	_	5	case	_	_
+5	Mario	Mario	_	cog	_	1	iobj	_	_
+6	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:9:194
+# text = An Tabaco dating kapitolyo na ekonomiya nin Albay, bago pa naging importante an Legazpi.
+1	An	an	_	det	ind	2	det	_	_
+2	Tabaco	Tabaco	_	cog	_	4	nsubj	_	_
+3	dating	dati	_	adv	_	4	advmod	_	_
+4	kapitolyo	kapitolyo	_	_	_	0	root	_	_
+5	na	na	_	link	_	6	aux:nmod	_	_
+6	ekonomiya	ekonomiya	_	n	_	4	nmod	_	_
+7	nin	nin	_	pr	_	8	case	_	_
+8	Albay	Albay	_	cog	_	4	obl	_	_
+9	,	,	_	cm	_	12	punct	_	_
+10	bago	bago	_	adv	_	12	advmod	_	_
+11	pa	pa	_	vaux	comp	13	aux	_	_
+12	naging	magin	_	vblex	past	4	advcl	_	_
+13	importante	importante	_	adj	sg	15	advmod	_	_
+14	an	an	_	det	ind	15	det	_	_
+15	Legazpi	Legazpi	_	cog	_	12	obj	_	_
+16	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:10:227
+# text = Mayor na destinasyon ining cuidad para sa mga turista.
+1	Mayor	mayor	_	adj	sg	3	amod	_	_
+2	na	na	_	link	_	1	aux:amod	_	_
+3	destinasyon	destinasyon	_	n	_	0	root	_	_
+4	ining	ini	_	det	_	5	det	_	_
+5	cuidad	ciudad	_	n	_	3	nsubj	_	_
+6	para	para	_	pr	_	9	case	_	_
+7	sa	sa	_	det	def	9	det	_	_
+8	mga	mga	_	pl	_	9	det	_	_
+9	turista	turista	_	n	_	3	obl	_	_
+10-11	.	_	_	_	_	_	_	_	_
+10	.	.	_	sent	_	3	punct	_	_
+11	_	.	_	sent	_	3	punct	_	_
+
+

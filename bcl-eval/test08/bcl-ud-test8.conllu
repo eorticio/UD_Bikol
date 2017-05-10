@@ -1,0 +1,126 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin derecho sa educacion.
+1	An	an	_	det	ind	3	det	_	_
+2	lambang	lambang	_	adj	sg	3	amod	_	_
+3	saro	saro	_	n	_	4	nsubj	_	_
+4	igwa	igwa	_	vblex	_	0	root	_	_
+5	nin	nin	_	pr	_	6	case	_	_
+6	derecho	derecho	_	n	_	4	obj	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	educacion	educacion	_	n	_	6	nmod	_	_
+9	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:2:18
+# text = Asya an pinakadakula asin pinakamatawong kontinente sa kinaban.
+1	Asya	Asya	_	cog	_	6	nsubj	_	_
+2	an	an	_	det	ind	6	det	_	_
+3	pinakadakula	dakula	_	adj	sg|sup	6	amod	_	_
+4	asin	asin	_	cnjcoo	_	5	cc	_	_
+5	pinakamatawong	tawong	_	adj	sg|sup	3	conj	_	_
+6	kontinente	kontinente	_	n	_	0	root	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	kinaban	kinaban	_	n	_	6	obl	_	_
+9	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = bcl:3:37
+# text = An Syudad nin Naga sarong primera klaseng syudad kan Filipinas.
+1	An	an	_	det	ind	2	det	_	_
+2	Syudad	Syudad	_	n	_	8	nsubj	_	_
+3	nin	nin	_	pr	_	4	case	_	_
+4	Naga	Naga	_	cog	_	2	nmod	_	_
+5	sarong	sarong	_	det	ind	8	det	_	_
+6	primera	primera	_	adj	sg	8	amod	_	_
+7	klaseng	klaseng	_	adj	sg	8	amod	_	_
+8	syudad	syudad	_	n	_	0	root	_	_
+9	kan	kan	_	pr	_	10	case	_	_
+10	Filipinas	Filipinas	_	cog	_	8	nmod	_	_
+11	.	.	_	sent	_	8	punct	_	_
+
+# sent_id = bcl:4:60
+# text = Noy, ano pigagibo mo?
+1	Noy	noy	_	n	_	4	vocative	_	_
+2	,	,	_	cm	_	4	punct	_	_
+3	ano	ano	_	itg	_	4	advmod	_	_
+4	pigagibo	gibo	_	vblex	pres	0	root	_	_
+5	mo	mo	_	prn	p2|sg	4	nsubj	_	_
+6	?	?	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:5:73
+# text = Komusta kamo diyan?
+1	Komusta	komusta	_	vblex	_	0	root	_	_
+2	kamo	kamó	_	prn	p2|pl	1	nsubj	_	_
+3	diyan	diyan	_	adv	_	1	advmod	_	_
+4	?	?	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:6:82
+# text = Ang maestra mi mabuoton.
+1	Ang	an	_	det	ind	2	det	_	_
+2	maestra	maestra	_	n	_	4	nsubj	_	_
+3	mi	mi	_	prn	p1|pl	2	nmod	_	_
+4	mabuoton	buoton	_	adj	sg	0	root	_	_
+5	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:7:93
+# text = Siya an nagorganisar asin nagin presidente kan Albay Writers Club.
+1	Siya	siyá	_	prn	p3|sg	3	nsubj	_	_
+2	an	an	_	det	ind	3	det	_	_
+3	nagorganisar	nagorganisar	_	n	_	0	root	_	_
+4	asin	asin	_	cnjcoo	_	6	cc	_	_
+5	nagin	nagin	_	adj	sg	6	amod	_	_
+6	presidente	presidente	_	n	_	3	conj	_	_
+7	kan	kan	_	pr	_	8	case	_	_
+8	Albay	Albay	_	cog	_	6	nmod	_	_
+9	Writers	Writers	_	cog	_	8	compound	_	_
+10	Club	Club	_	cog	_	8	compound	_	_
+11	.	.	_	sent	_	3	punct	_	_
+
+# sent_id = bcl:8:116
+# text = Pighapot ako niya kon dagos si test ninda.
+1	Pighapot	hapot	_	vblex	_	0	root	_	_
+2	ako	akó	_	prn	p1|sg	1	iobj	_	_
+3	niya	niyá	_	prn	p3|sg	1	nsubj	_	_
+4	kon	kon	_	cnjsub	_	5	cc	_	_
+5	dagos	dagos	_	vblex	_	1	conj	_	_
+6	si	si	_	det	def	7	det	_	_
+7	test	test	_	n	_	5	nsubj	_	_
+8	ninda	ninda	_	prn	p3|pl	7	nmod	_	_
+9	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:9:136
+# text = An tataramon na Espanyol o Kastelyano sarong miembro kan grupong tataramon na Romanse.
+1	An	an	_	det	ind	2	det	_	_
+2	tataramon	tataramon	_	n	_	8	nsubj	_	_
+3	na	na	_	link	_	4	aux:amod	_	_
+4	Espanyol	Espanyol	_	adj	sg	2	amod	_	_
+5	o	o	_	cnjcoo	_	6	cc	_	_
+6	Kastelyano	Kastelyano	_	adj	sg	4	conj	_	_
+7	sarong	sarong	_	det	ind	8	det	_	_
+8	miembro	miembro	_	n	_	0	root	_	_
+9	kan	kan	_	pr	_	10	case	_	_
+10	grupong	grupo	_	n	_	8	nmod	_	_
+11	tataramon	tataramon	_	n	_	10	nmod	_	_
+12	na	na	_	link	_	13	aux:amod	_	_
+13	Romanse	Romanse	_	n	_	11	amod	_	_
+14	.	.	_	sent	_	8	punct	_	_
+
+# sent_id = bcl:10:165
+# text = An nagdesenyo asin nagpahaman kan edipisyong ini sinda Arkitekto Thomas Boada asin David Childs.
+1	An	an	_	det	ind	2	det	_	_
+2	nagdesenyo	desenyo	_	n	_	0	root	_	_
+3	asin	asin	_	cnjcoo	_	4	cc	_	_
+4	nagpahaman	pahaman	_	n	_	2	conj	_	_
+5	kan	kan	_	pr	_	6	case	_	_
+6	edipisyong	edipisyong	_	n	_	2	nmod	_	_
+7	ini	iní	_	prn	dem	2	nsubj	_	_
+8	sinda	sindá	_	prn	p3|pl	2	obl	_	_
+9	Arkitekto	Arkitekto	_	n	_	8	nmod	_	_
+10	Thomas	Thomas	_	cog	_	10	flat	_	_
+11	Boada	Boada	_	cog	_	10	flat	_	_
+12	asin	asin	_	cnjcoo	_	14	cc	_	_
+13	David	David	_	cog	_	10	conj	_	_
+14	Childs	Childs	_	cog	_	14	flat	_	_
+15-16	.	_	_	_	_	_	_	_	_
+15	.	.	_	sent	_	2	punct	_	_
+16	_	.	_	sent	_	2	punct	_	_
+
+

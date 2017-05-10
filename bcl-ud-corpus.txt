@@ -118,7 +118,7 @@
 "<bilang>"
 	"bilang" vblex @acl #9->6
 "<sarong>"
-	"sarong" num @nmod #10->11
+	"sarong" det ind @det #10->11
 "<persona>"
 	"persona" n @nsubj #11->10
 "<sa>"
@@ -178,7 +178,7 @@
 "<banwaan>"
 	"banwaan" n @nmod #13->9
 "<asin>"
-	"asin" cnjcoo @cc
+	"asin" cnjcoo @cc #14->15
 "<igwa>"
 	"igwa" vblex @conj #15->9
 "<nin>"
@@ -217,7 +217,7 @@
 "<dapat>"
 	"dapat" vaux @aux #7->9
 "<na>"
-	"na" cnjsub @mark #8->9 !*
+	"na" link @dep #8->7
 "<pinaghahalean>"
 	"pinaghahalean" vblex @root #9->0
 "<kan>"
@@ -253,7 +253,7 @@
 "<An>"
 	"an" det ind @det #1->2
 "<educacion>"
-	"educacion" n @nsubj 
+	"educacion" n @nsubj #2->5
 "<sa>"
 	"sa" pr @case #3->4
 "<elementaria>"
@@ -261,9 +261,9 @@
 "<dapat>"
 	"dapat" vblex @root #5->0
 "<na>"
-	"na" cnjsub @mark #6->5 !*
+	"na" link @dep #6->5
 "<sarong>"
-	"sarong" n @nmod #7->8
+	"sarong" det ind @det #7->8
 "<obligacion>"
 	"obligacion" n @obj #8->5
 "<.>"
@@ -293,7 +293,7 @@
 "<ang>"
 	"an" det ind @det #3->4
 "<Naga>"
-	"Naga" cog @nsubj 
+	"Naga" cog @nsubj #4->1
 "<na>"
 	"na" det def @det #5->6
 "<Queen>"
@@ -341,7 +341,7 @@
 "<Alabama>"
 	"Alabama" cog @nsubj #2->4
 "<sarong>"
-	"sarong" n @nmod #3->4
+	"sarong" det ind @det #3->4
 "<estado>"
 	"estado" n @root #4->0
 "<kan>"
@@ -385,7 +385,7 @@
 "<Hawaii>"
 	"Hawaii" cog @nmod #4->2 
 "<sarong>"
-	"sarong" n @nmod #5->6
+	"sarong" det ind @det #5->6
 "<arkipelago>"
 	"arkipelago" n @obj #6->2
 "<sa>"
@@ -406,7 +406,7 @@
 "<,>"
 	"," cm @punct #3->5
 "<sarong>"
-	"sarong" n @nmod #4->5
+	"sarong" det ind @det #4->5
 "<pangenot>"
 	"pangenot" n @root #5->0
 "<na>"
@@ -479,26 +479,26 @@
 "<Ini>"
 	"ini" prn dem @obj #1->2
 "<tinago>"
-	"tago" vblex past @root #2->1
+	"tago" vblex past @root #2->0
 "<niya>"
 	"niyá" prn p3 sg @nsubj #3->2
 "<sa>"
 	"sa" pr @case #4->6
 "<sarong>"
-	"sarong" n @nmod #5->6
+	"sarong" det ind @det #5->6
 "<kusinilya>"
 	"kusinilya" n @obl #6->2
 "<.>"
 	"." sent @punct #7->2
 
 "<Namundag>"
-	"mundag" vblex root #1->0
+	"mundag" vblex @root #1->0
 "<siya>"
 	"siya" prn p3 sg @nsubj #2->1
 "<sa>"
 	"sa" pr @case #3->6
 "<sarong>"
-	"sarong" n @nmod #4->5
+	"sarong" det ind @det #4->5
 "<prominenteng>"
 	"prominenteng" adj sg @amod #5->6
 "<pamilya>"
@@ -548,7 +548,7 @@
 	"." sent @punct #12->6
 
 "<An>"
-	"an" det ind @det #1-2
+	"an" det ind @det #1->2
 "<pamilya>"
 	"pamilya" n @nsubj #2->4
 "<niya>"
@@ -577,7 +577,7 @@
 "<Viejo>"
 	"Viejo" cog @flat #6->4
 "<.>"
-	"." sent @punct @7->1
+	"." sent @punct #7->1
  
 "<Si>"
 	"si" det def @det #1->2
@@ -655,7 +655,7 @@
 "<Panganiban>"
 	"Panganiban" cog @flat #4->2
 "<sarong>"
-	"sarong" n @nmod #5->6
+	"sarong" det ind @det #5->6
 "<propagandistang>"
 	"propagandistang" n @root #6->0
 "<Pilipino>"
@@ -672,7 +672,7 @@
 "<Naga>"
 	"Naga" cog @nmod #4->2 
 "<sarong>"
-	"sarong" n @nmod #5->8
+	"sarong" det ind @det #5->8
 "<primera>"
 	"primera" adj sg @amod #6->8
 "<klaseng>"
@@ -716,7 +716,7 @@
 	"." sent @punct #14->4
 
 "<Si>"
-	"si" link #1->2
+	"si" link @det #1->2
 "<John>"
 	"John" cog @nsubj #2->10
 "<Bongat>"
@@ -724,7 +724,7 @@
 "<,>"
 	"," cm @punct #4->6
 "<sarong>"
-	"sarong" adj sg @amod #5->6
+	"sarong" det ind @det #5->6
 "<abogado>"
 	"abogado" n @advcl #6->10
 "<,>"
@@ -817,7 +817,7 @@
 "<Chicago>"
 	"Chicago" cog @nsubj #2->4
 "<sarong>"
-	"sarong" n @nmod #3->4
+	"sarong" det ind @det #3->4
 "<syudad>"
 	"syudad" n @root #4->0
 "<na>"
@@ -872,7 +872,7 @@
 "<kan>"
 	"kan" pr @case #14->15
 "<Nueva>"
-	"Nueva" cog @obl #15
+	"Nueva" cog @obl #15->10
 "<York>"
 	"York" cog @flat #16->15
 "<o>"
@@ -891,7 +891,7 @@
 "<Pratt>"
 	"Pratt" cog @flat #3->2
 "<sarong>"
-	"sarong" n @nmod #4->6
+	"sarong" det ind @det #4->6
 "<Amerikanong>"
 	"Amerikanong" adj sg @amod #5->6
 "<aktor>"
@@ -922,7 +922,7 @@
 "<komo>"
 	"komo" pr @case #3->5
 "<sarong>"
-	"sarong" n @nmod #4->5
+	"sarong" det ind @det #4->5
 "<icon>"
 	"icon" n @obl #5->1
 "<nin>"
@@ -1022,7 +1022,7 @@
 "<an>"
 	"an" det ind @det #4->6
 "<sarong>"
-	"sarong" n @nmod #5->6
+	"sarong" det ind @det #5->6
 "<grupo>"
 	"grupo" n @obj #6->1
 "<nin>"
@@ -1121,7 +1121,7 @@
 "<teknolohiya>"
 	"teknolohiya" n @conj #13->5
 "<.>"
-	"." sent @punct #14->
+	"." sent @punct #14->2
 
 "<An>"
 	"an" det ind @det #1->2
@@ -1144,7 +1144,7 @@
 "<nadarang>"
 	"nadarang" adv @advmod #10->8
 "<kolor>"
-	"kolor" n #11 @nmod #11->10
+	"kolor" n @nmod #11->10
 "<na>"
 	"na" link @aux:amod #12->13
 "<puti>"
@@ -1156,11 +1156,11 @@
 "<,>"
 	"," cm @punct #16->17
 "<giyaw>"
-	"giyaw" adj sg #17->13
+	"giyaw" adj sg @amod #17->13
 "<,>"
 	"," cm @punct #18->19
 "<mairom>"
-	"mairom" adj sg #19->13
+	"mairom" adj sg @amod #19->13
 "<na>"
 	"na" link @aux:amod #20->21
 "<rosa>"
@@ -1395,7 +1395,7 @@
 "<An>"
 	"an" det ind @det #1->2
 "<harong>"
-	"harong" n @nsubj #2
+	"harong" n @nsubj #2->3
 "<sadit>"
 	"sadit" adj sg @root #3->0
 "<sana>"
@@ -1414,7 +1414,7 @@
 "<An>"
 	"an" det ind @det #1->2
 "<tsinelas>"
-	"tsinelas" n @nsubj #2
+	"tsinelas" n @nsubj #2->5
 "<niya>"
 	"niyá" prn p3 sg @nmod #3->2
 "<bago>"
@@ -1475,7 +1475,7 @@
 "<Gubatnon>"
 	"Gubatnon" cog @obl #7->2
 "<asin>"
-	"asin" cnjcoo #8->9
+	"asin" cnjcoo @cc #8->9
 "<Bikol>"
 	"Bikol" cog @conj #9->7
 "<.>"
@@ -1580,7 +1580,7 @@
 "<na>"
 	"na" link @aux:advmod #3->4
 "<lang>"
-	"lang" advmod #4->1
+	"lang" adv @advmod #4->1
 "<an>"
 	"an" det ind @det #5->6
 "<pansit>"
@@ -1667,7 +1667,7 @@
 "<kaming>"
 	"kami" prn p1 pl @nsubj #4->1
 "<sarong>"
-	"sarong" num @nummod #5->6
+	"sarong" det ind @det #5->6
 "<lecture>"
 	"lecture" n @obj #6->1
 "<.>"
@@ -1703,7 +1703,7 @@
 "<,>"
 	"," cm @punct #5->9
 "<sarong>"
-	"sarong" n @nmod #6->9
+	"sarong" det ind @det #6->9
 "<biolohikal>"
 	"biolohikal" adj sg @amod #7->9
 "<na>"
@@ -1713,7 +1713,7 @@
 "<saka>"
 	"saka" cnjcoo @cc #10->12
 "<sarong>"
-	"sarong" n @nmod #11->12
+	"sarong" det ind @det #11->12
 "<klaseng>"
 	"klaseng" n @conj #12->9
 "<rangong>"
@@ -1732,13 +1732,13 @@
 "<An>"
 	"an" det ind @det #1->2
 "<sarong>"
-	"sarong" n @nmod #2->3
+	"sarong" det ind @det #2->3
 "<species>"
-	"species" n @nsubj #3-4
+	"species" n @nsubj #3->4
 "<may>"
 	"may" vblex @root #4->0
 "<kakayahang>"
-	"kakayahang" adj sg #5->6
+	"kakayahang" adj sg @amod #5->6
 "<magpalahi>"
 	"palahi" n @obj #6->4
 "<asin>"
@@ -1752,14 +1752,14 @@
 "<ugbon>"
 	"ugbon" n @obj #11->8
 "<na>"
-	"na" link @mark #12->14 !*
+	"na" link @mark #12->14
 "<pwedeng>"
 	"pwede" vblex @aux #13->14
 "<umaki>"
 	"umaki" vblex @csubj #14->8
 "<.>"
 	"." sent @punct #15->4
- 
+
 "<An>"
 	"an" det ind @det #1->2
 "<grupo>"
@@ -1798,7 +1798,7 @@
 "<syudad>"
 	"syudad" @nsubj #2->6
 "<sarong>"
-	"sarong" n @nmod #3->6
+	"sarong" det ind @det #3->6
 "<urban>"
 	"urban" adj sg @amod #4->6
 "<na>"
@@ -1820,7 +1820,7 @@
 "<sa>"
 	"sa" pr @case #14->16
 "<sarong>"
-	"sarong" n @nmod #15->16
+	"sarong" det ind @det #15->16
 "<banwaan>"
 	"banwaan" n @obl #16->11
 "<.>"
@@ -1965,7 +1965,7 @@
 "<kapitolyo>"
 	"kapitolyo" n @nsubj #7->14
 "<kaini>"
-	"*kaini" prn dem @det #8->7
+	"kaini" prn dem @det #8->7
 "<asin>"
 	"asin" cnjcoo @cc #9->10
 "<sinasakop>"
@@ -2010,7 +2010,7 @@
 "<Kastelyano>"
 	"Kastelyano" adj sg @conj #6->4
 "<sarong>"
-	"sarong" n @nmod #7->8
+	"sarong" det ind @det #7->8
 "<miembro>"
 	"miembro" n @root #8->0
 "<kan>"

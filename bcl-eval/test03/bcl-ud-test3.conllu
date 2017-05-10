@@ -1,0 +1,147 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin derecho nin buhay, katalinkasan, asin seguridad nin pagkatawo.
+1	An	an	_	det	ind	3	det	_	_
+2	lambang	lambang	_	adj	sg	3	amod	_	_
+3	saro	saro	_	n	_	4	nsubj	_	_
+4	igwa	igwa	_	vblex	_	0	root	_	_
+5	nin	nin	_	pr	_	6	case	_	_
+6	derecho	derecho	_	n	_	4	obj	_	_
+7	nin	nin	_	pr	_	8	case	_	_
+8	buhay	buhay	_	n	_	6	nmod	_	_
+9	,	,	_	cm	_	10	punct	_	_
+10	katalinkasan	katalinkasan	_	n	_	8	conj	_	_
+11	,	,	_	cm	_	13	punct	_	_
+12	asin	asin	_	cnjcoo	_	13	cc	_	_
+13	seguridad	seguridad	_	n	_	8	conj	_	_
+14	nin	nin	_	pr	_	15	case	_	_
+15	pagkatawo	pagkatawo	_	n	_	8	obl	_	_
+16	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:2:32
+# text = An Alabama sarong estado kan Estados Unidos.
+1	An	an	_	det	ind	2	det	_	_
+2	Alabama	Alabama	_	cog	_	4	nsubj	_	_
+3	sarong	sarong	_	det	ind	4	det	_	_
+4	estado	estado	_	n	_	0	root	_	_
+5	kan	kan	_	pr	_	6	case	_	_
+6	Estados	Estados	_	cog	_	4	obl	_	_
+7	Unidos	Unidos	_	adj	_	6	amod	_	_
+8	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:3:49
+# text = Namundag siya sa Cavite El Viejo.
+1	Namundag	mundag	_	vblex	_	0	root	_	_
+2	siya	siya	_	prn	p3|sg	1	nsubj	_	_
+3	sa	sa	_	pr	_	4	case	_	_
+4	Cavite	Cavite	_	cog	_	1	obl	_	_
+5	El	El	_	cog	_	4	flat	_	_
+6	Viejo	Viejo	_	cog	_	4	flat	_	_
+7	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:4:64
+# text = An Chicago sarong syudad na namumugtak sa sur-subangan kan estado nin Illinois.
+1	An	an	_	det	ind	2	det	_	_
+2	Chicago	Chicago	_	cog	_	4	nsubj	_	_
+3	sarong	sarong	_	det	ind	4	det	_	_
+4	syudad	syudad	_	n	_	0	root	_	_
+5	na	na	_	link	_	6	aux:amod	_	_
+6	namumugtak	mugtak	_	adj	sg	4	amod	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	sur	sur	_	n	_	4	obl	_	_
+9	-	-	_	guio	_	8	compound	_	_
+10	subangan	subangan	_	n	_	8	compound	_	_
+11	kan	kan	_	pr	_	12	case	_	_
+12	estado	estado	_	n	_	10	nmod	_	_
+13	nin	nin	_	pr	_	14	case	_	_
+14	Illinois	Illinois	_	cog	_	12	nmod	_	_
+15	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:5:95
+# text = An batayan kan mga doktrina nin Islam nakukua sa Koran.
+1	An	an	_	det	ind	2	det	_	_
+2	batayan	batayan	_	n	_	8	nsubj	_	_
+3	kan	kan	_	pr	_	5	case	_	_
+4	mga	mga	_	pl	_	5	det	_	_
+5	doktrina	doktrina	_	n	_	2	nmod	_	_
+6	nin	nin	_	pr	_	7	case	_	_
+7	Islam	Islam	_	cog	_	5	nmod	_	_
+8	nakukua	kua	_	vblex	fti	0	root	_	_
+9	sa	sa	_	pr	_	10	case	_	_
+10	Koran	Koran	_	cog	_	8	obl	_	_
+11	.	.	_	sent	_	8	punct	_	_
+
+# sent_id = bcl:6:118
+# text = May signal an cellphone mo?
+1	May	may	_	vblex	_	0	root	_	_
+2	signal	signal	_	n	_	1	obj	_	_
+3	an	an	_	det	ind	4	det	_	_
+4	cellphone	cellphone	_	n	_	1	nsubj	_	_
+5	mo	mo	_	prn	p2|sg	4	nmod	_	_
+6	?	?	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:7:131
+# text = An harong sadit sana pero malinig sa kusina.
+1	An	an	_	det	ind	2	det	_	_
+2	harong	harong	_	n	_	3	nsubj	_	_
+3	sadit	sadit	_	adj	sg	0	root	_	_
+4	sana	sana	_	adv	_	3	advmod	_	_
+5	pero	pero	_	cnjcoo	_	6	cc	_	_
+6	malinig	linig	_	adj	sg	4	conj	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	kusina	kusina	_	n	_	3	obl	_	_
+9	.	.	_	sent	_	3	punct	_	_
+
+# sent_id = bcl:8:150
+# text = Darahon mo an libro ni Jose.
+1	Darahon	dará	_	vblex	inf	0	root	_	_
+2	mo	mo	_	prn	p2|sg	1	nsubj	_	_
+3	an	an	_	det	ind	4	det	_	_
+4	libro	libro	_	n	_	1	obj	_	_
+5	ni	ni	_	link	_	6	case	_	_
+6	Jose	Jose	_	cog	_	1	obl	_	_
+7	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:9:166
+# text = Dakol an bersiyon kan kapangaranan kan Tabaco.
+1	Dakol	dakol	_	det	_	3	det	_	_
+2	an	an	_	det	ind	3	det	_	_
+3	bersiyon	bersiyon	_	n	_	0	root	_	_
+4	kan	kan	_	pr	_	5	case	_	_
+5	kapangaranan	kapangaranan	_	n	_	3	obl	_	_
+6	kan	kan	_	pr	_	7	case	_	_
+7	Tabaco	Tabaco	_	cog	_	3	obl	_	_
+8	.	.	_	sent	_	3	punct	_	_
+
+# sent_id = bcl:10:183
+# text = An Londres an pinakamatawong ciudad sa Union Europea.
+1	An	an	_	det	ind	2	det	_	_
+2	Londres	Londres	_	cog	_	5	nsubj	_	_
+3	an	an	_	det	ind	5	det	_	_
+4	pinakamatawong	tawo	_	adj	sg|sp	5	amod	_	_
+5	ciudad	ciudad	_	n	_	0	root	_	_
+6	sa	sa	_	pr	_	7	case	_	_
+7	Union	Union	_	cog	_	5	obl	_	_
+8	Europea	Europea	_	cog	_	7	flat	_	_
+9	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:11:202
+# text = An toga gibo sa pranela asin an tunic sa irarom parati gibo sa linen.
+1	An	an	_	det	ind	2	det	_	_
+2	toga	toga	_	n	_	3	nsubj	_	_
+3	gibo	gíbo	_	vblex	_	0	root	_	_
+4	sa	sa	_	pr	_	5	case	_	_
+5	pranela	pranela	_	_	_	3	obj	_	_
+6	asin	asin	_	cnjcoo	_	12	cc	_	_
+7	an	an	_	det	ind	8	det	_	_
+8	tunic	tunic	_	n	_	12	nsubj	_	_
+9	sa	sa	_	pr	_	8	amod	_	_
+10	irarom	irarom	_	adj	sg	9	fixed	_	_
+11	parati	parati	_	adv	_	12	advmod	_	_
+12	gibo	gíbo	_	vblex	_	3	conj	_	_
+13	sa	sa	_	pr	_	14	case	_	_
+14	linen	linen	_	n	_	12	obj	_	_
+15-16	.	_	_	_	_	_	_	_	_
+15	.	.	_	sent	_	3	punct	_	_
+16	_	.	_	sent	_	3	punct	_	_
+
+

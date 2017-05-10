@@ -1,0 +1,153 @@
+# sent_id = bcl:1:0
+# text = An mga residente digdi inaapod na Nagueños.
+1	An	an	_	det	ind	3	det	_	_
+2	mga	mga	_	pl	_	3	det	_	_
+3	residente	residente	_	n	_	5	nsubj	_	_
+4	digdi	digdi	_	adv	_	5	advmod	_	_
+5	inaapod	apod	_	vblex	pres	0	root	_	_
+6	na	na	_	det	def	7	det	_	_
+7	Nagueños	Nagueños	_	cog	_	5	obl	_	_
+8	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:2:16
+# text = Namundag siya sa sarong prominenteng pamilya sa Nueva Caceres, Camarines Sur, Filipinas.
+1	Namundag	mundag	_	vblex	_	0	root	_	_
+2	siya	siya	_	prn	p3|sg	1	nsubj	_	_
+3	sa	sa	_	pr	_	6	case	_	_
+4	sarong	sarong	_	det	ind	5	det	_	_
+5	prominenteng	prominenteng	_	adj	sg	6	amod	_	_
+6	pamilya	pamilya	_	n	_	1	obl	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	Nueva	Nueva	_	cog	_	1	obl	_	_
+9	Caceres	Caceres	_	cog	_	8	flat	_	_
+10	,	,	_	cm	_	11	punct	_	_
+11	Camarines	Camarines	_	cog	_	8	flat	_	_
+12	Sur	Sur	_	cog	_	8	flat	_	_
+13	,	,	_	cm	_	14	punct	_	_
+14	Filipinas	Filipinas	_	cog	_	8	flat	_	_
+15	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:3:47
+# text = Namundag siya sa sarong prominenteng pamilya sa Nueva Caceres, Camarines Sur, Filipinas.
+1	Namundag	mundag	_	vblex	_	0	root	_	_
+2	siya	siya	_	prn	p3|sg	1	nsubj	_	_
+3	sa	sa	_	pr	_	6	case	_	_
+4	sarong	sarong	_	det	ind	5	det	_	_
+5	prominenteng	prominenteng	_	adj	sg	6	amod	_	_
+6	pamilya	pamilya	_	n	_	1	obl	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	Nueva	Nueva	_	cog	_	1	obl	_	_
+9	Caceres	Caceres	_	cog	_	8	flat	_	_
+10	,	,	_	cm	_	11	punct	_	_
+11	Camarines	Camarines	_	cog	_	8	flat	_	_
+12	Sur	Sur	_	cog	_	8	flat	_	_
+13	,	,	_	cm	_	14	punct	_	_
+14	Filipinas	Filipinas	_	cog	_	8	flat	_	_
+15	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:4:78
+# text = Ma abroad daa si pinsan ko.
+1	Ma	ma	_	link	_	2	dep	_	_
+2	abroad	abroad	_	adj	sg	0	root	_	_
+3	daa	daa	_	adv	_	2	advmod	_	_
+4	si	si	_	det	def	5	det	_	_
+5	pinsan	pinsan	_	n	_	2	nsubj	_	_
+6	ko	ko	_	prn	p1|sg	5	nmod	_	_
+7	.	.	_	sent	_	2	punct	_	_
+
+# sent_id = bcl:5:93
+# text = Magagayon si karawat sa eskuelahan.
+1	Magagayon	gayon	_	adj	pl	0	root	_	_
+2	si	si	_	det	def	3	det	_	_
+3	karawat	karawat	_	n	_	1	nsubj	_	_
+4	sa	sa	_	pr	_	5	case	_	_
+5	eskuelahan	eskuelahan	_	n	_	1	obl	_	_
+6	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:6:106
+# text = Matuga na naman siguro an bulkan Mayon.
+1	Matuga	tuga	_	vblex	inf	0	root	_	_
+2	na	na	_	link	_	3	aux:advmod	_	_
+3	naman	naman	_	adv	_	1	advmod	_	_
+4	siguro	seguro	_	adv	_	1	advmod	_	_
+5	an	an	_	det	ind	6	det	_	_
+6	bulkan	bulkan	_	n	_	1	nsubj	_	_
+7	Mayon	Mayon	_	cog	_	6	nmod	_	_
+8	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:7:123
+# text = Halion mo an mga papers sa lamesa ta pigkorehiran na iyan.
+1	Halion	hali	_	vblex	inf	0	root	_	_
+2	mo	mo	_	prn	p2|sg	1	nsubj	_	_
+3	an	an	_	det	ind	5	det	_	_
+4	mga	mga	_	pl	_	5	det	_	_
+5	papers	papers	_	n	_	1	obj	_	_
+6	sa	sa	_	pr	_	7	case	_	_
+7	lamesa	lamesa	_	n	_	0	obl	_	_
+8	ta	ta	_	cnjcoo	_	9	cc	_	_
+9	pigkorehiran	korehir	_	vblex	inf	1	conj	_	_
+10	na	na	_	link	_	11	aux:advmod	_	_
+11	iyan	iyan	_	adv	_	9	advmod	_	_
+12	.	.	_	sent	_	0	punct	_	_
+
+# sent_id = bcl:8:148
+# text = An sarong species may kakayahang magpalahi asin maggibo nin mga ugbon na pwedeng umaki.
+1	An	an	_	det	ind	2	det	_	_
+2	sarong	sarong	_	det	ind	3	det	_	_
+3	species	species	_	n	_	4	nsubj	_	_
+4	may	may	_	vblex	_	0	root	_	_
+5	kakayahang	kakayahang	_	adj	sg	6	amod	_	_
+6	magpalahi	palahi	_	n	_	4	obj	_	_
+7	asin	asin	_	cnjcoo	_	8	cc	_	_
+8	maggibo	gíbo	_	vblex	inf	4	conj	_	_
+9	nin	nin	_	pr	_	11	case	_	_
+10	mga	mga	_	pl	_	11	det	_	_
+11	ugbon	ugbon	_	n	_	8	obj	_	_
+12	na	na	_	link	_	14	mark	_	_
+13	pwedeng	pwede	_	vblex	_	14	aux	_	_
+14	umaki	umaki	_	vblex	_	8	csubj	_	_
+15	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:9:180
+# text = Dakula ang impluensya kaini sa gabos na tataramon sa Pilipinas, pati na sa Rehiyon Bikol ta dakulon kan bocabulario kaini hale sa Espanyol.
+1	Dakula	Dakula	_	adj	sg	0	root	_	_
+2	ang	an	_	det	ind	3	det	_	_
+3	impluensya	impluensya	_	n	_	1	nsubj	_	_
+4	kaini	kainí	_	det	dem	3	det	_	_
+5	sa	sa	_	pr	_	8	case	_	_
+6	gabos	gabos	_	det	_	8	det	_	_
+7	na	na	_	link	_	6	dep	_	_
+8	tataramon	tataramon	_	n	_	1	obl	_	_
+9	sa	sa	_	pr	_	10	case	_	_
+10	Pilipinas	Pilipinas	_	n	_	8	nmod	_	_
+11	,	,	_	cm	_	15	punct	_	_
+12	pati	pati	_	adv	_	1	advmod	_	_
+13	na	na	_	link	_	12	fixed	_	_
+14	sa	sa	_	pr	_	15	case	_	_
+15	Rehiyon	Rehiyon	_	cog	_	1	obl	_	_
+16	Bikol	Bikol	_	cog	_	15	flat	_	_
+17	ta	ta	_	cnjcoo	_	18	cc	_	_
+18	dakulon	dakula	_	vblex	inf	1	conj	_	_
+19	kan	kan	_	pr	_	20	case	_	_
+20	bocabulario	bocabulario	_	n	_	18	obl	_	_
+21	kaini	kainí	_	prn	dem	18	nsubj	_	_
+22	hale	hale	_	adj	sg	20	amod	_	_
+23	sa	sa	_	pr	_	24	case	_	_
+24	Espanyol	Espanyol	_	n	_	18	obl	_	_
+25	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:10:231
+# text = Siya hale nanggad sa pamilya nin mga boksingero.
+1	Siya	siyá	_	prn	p3|sg	2	nsubj	_	_
+2	hale	hale	_	vblex	_	0	root	_	_
+3	nanggad	nanggad	_	adv	_	2	advmod	_	_
+4	sa	sa	_	det	def	5	det	_	_
+5	pamilya	pamilya	_	n	_	2	obj	_	_
+6	nin	nin	_	pr	_	8	case	_	_
+7	mga	mga	_	pl	_	8	det	_	_
+8	boksingero	boksingero	_	n	_	2	obl	_	_
+9-10	.	_	_	_	_	_	_	_	_
+9	.	.	_	sent	_	2	punct	_	_
+10	_	.	_	sent	_	2	punct	_	_
+
+

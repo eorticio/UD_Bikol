@@ -1,0 +1,156 @@
+# sent_id = bcl:1:0
+# text = An gabos na tawo ipinangaking may katalinkasan asin parantay sa dignidad asin derechos.
+1	An	an	_	det	ind	2	det	_	_
+2	gabos	gabos	_	n	_	6	nsubj	_	_
+3	na	na	_	link	_	4	aux:nmod	_	_
+4	tawo	tawo	_	n	_	2	nmod	_	_
+5	ipinangaking	ipinangaking	_	n	_	4	compound	_	_
+6	may	may	_	vblex	inf	0	root	_	_
+7	katalinkasan	katalinkasan	_	n	_	6	obj	_	_
+8	asin	asin	_	cnjcoo	_	9	cc	_	_
+9	parantay	parantay	_	n	_	7	conj	_	_
+10	sa	sa	_	pr	_	11	case	_	_
+11	dignidad	dignidad	_	n	_	7	obl	_	_
+12	asin	asin	_	cnjcoo	_	13	cc	_	_
+13	derechos	derechos	_	n	_	11	conj	_	_
+14	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = bcl:2:28
+# text = Inaapod man ang Naga na Queen City of Bicol.
+1	Inaapod	apod	_	vblex	pres	0	root	_	_
+2	man	man	_	adv	_	1	advmod	_	_
+3	ang	an	_	det	ind	4	det	_	_
+4	Naga	Naga	_	cog	_	1	nsubj	_	_
+5	na	na	_	det	def	6	det	_	_
+6	Queen	Queen	_	cog	_	4	nmod	_	_
+7	City	City	_	cog	_	6	compound	_	_
+8	of	of	_	pr	_	9	case	_	_
+9	Bicol	Bicol	_	cog	_	7	nmod	_	_
+10	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:3:49
+# text = Siya an dati asin ikaduwang presidente kan Unibersidad kan Nueva Caceres.
+1	Siya	siyá	_	prn	p3|sg	6	nsubj	_	_
+2	an	an	_	det	ind	6	det	_	_
+3	dati	dati	_	adv	_	7	advmod	_	_
+4	asin	asin	_	cnjcoo	_	5	cc	_	_
+5	ikaduwang	ikaduwang	_	adj	sg	3	conj	_	_
+6	presidente	presidente	_	n	_	0	root	_	_
+7	kan	kan	_	pr	_	8	case	_	_
+8	Unibersidad	Unibersidad	_	n	_	6	nmod	_	_
+9	kan	kan	_	pr	_	8	flat	_	_
+10	Nueva	Nueva	_	cog	_	8	flat	_	_
+11	Caceres	Caceres	_	cog	_	8	flat	_	_
+12	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = bcl:4:74
+# text = Igwang duwang panginot na lugar pankomersiyo an Naga.
+1	Igwang	igwa	_	vblex	_	0	root	_	_
+2	duwang	duwa	_	num	_	5	nummod	_	_
+3	panginot	panginot	_	adj	sg	5	amod	_	_
+4	na	na	_	link	_	3	aux:amod	_	_
+5	lugar	lugar	_	n	_	1	obj	_	_
+6	pankomersiyo	pankomersiyo	_	adj	sg	5	amod	_	_
+7	an	an	_	det	ind	8	case	_	_
+8	Naga	Naga	_	cog	_	1	obl	_	_
+9	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:5:93
+# text = Nagiriwal si mga buratsero.
+1	Nagiriwal	iwal	_	vblex	pres	0	root	_	_
+2	si	si	_	det	def	4	det	_	_
+3	mga	mga	_	pl	_	4	det	_	_
+4	buratsero	buratsero	_	n	_	1	nsubj	_	_
+5	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:6:105
+# text = Komusta si biyahe nindo?
+1	Komusta	komusta	_	vblex	_	0	root	_	_
+2	si	si	_	det	def	3	det	_	_
+3	biyahe	biyahe	_	n	_	1	nsubj	_	_
+4	nindo	nindó	_	prn	p2|pl	3	nmod	_	_
+5	?	?	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:7:116
+# text = Maski pobre kami, tiripon man an pamilya.
+1	Maski	maski	_	cnjsub	_	2	cc	_	_
+2	pobre	pobre	_	adv	sg	5	advcl	_	_
+3	kami	kamí	_	prn	p1|pl	2	nsubj	_	_
+4	,	,	_	cm	_	5	punct	_	_
+5	tiripon	tirip	_	vblex	_	0	root	_	_
+6	man	man	_	adv	_	5	advmod	_	_
+7	an	an	_	det	ind	8	det	_	_
+8	pamilya	pamilya	_	n	_	5	nsubj	_	_
+9	.	.	_	sent	_	5	punct	_	_
+
+# sent_id = bcl:8:135
+# text = Hapiton mo ako alas dose ta masine kita.
+1	Hapiton	hapit	_	vblex	inf	0	root	_	_
+2	mo	mo	_	prn	p2|sg	1	nsubj	_	_
+3	ako	ako	_	prn	p1|sg	1	obj	_	_
+4	alas	alas	_	pr	_	5	case	_	_
+5	dose	dose	_	num	_	1	obl	_	_
+6	ta	ta	_	cnjcoo	_	7	cc	_	_
+7	masine	sine	_	vblex	_	1	conj	_	_
+8	kita	kita	_	prn	p1|pl	7	nsubj	_	_
+9	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:9:154
+# text = An grupo kan mga species na magkaharanihan an istratura kan saindang DNA inaapod na genus.
+1	An	an	_	det	ind	2	det	_	_
+2	grupo	grupo	_	n	_	7	nsubj	_	_
+3	kan	kan	_	pr	_	5	case	_	_
+4	mga	mga	_	pl	_	5	det	_	_
+5	species	species	_	n	_	2	nmod	_	_
+6	na	na	_	link	_	7	dep	_	_
+7	magkaharanihan	kaharani	_	vblex	_	0	root	_	_
+8	an	an	_	det	ind	9	det	_	_
+9	istratura	istratura	_	n	_	7	obj	_	_
+10	kan	kan	_	pr	_	12	case	_	_
+11	saindang	saindá	_	prn	p3|pl	12	nmod	_	_
+12	DNA	DNA	_	n	_	9	nmod	_	_
+13	inaapod	apod	_	vblex	pres	9	acl	_	_
+14	na	na	_	link	_	15	dep	_	_
+15	genus	genus	_	n	_	3	obj	_	_
+16	.	.	_	sent	_	7	punct	_	_
+
+# sent_id = bcl:10:187
+# text = Inaapod man ini sa Espanyol na “cera de abeja”.
+1	Inaapod	apod	_	vblex	pres	0	root	_	_
+2	man	man	_	adv	_	1	advmod	_	_
+3	ini	ini	_	prn	dem	1	nsubj	_	_
+4	sa	sa	_	pr	_	5	case	_	_
+5	Espanyol	Espanyol	_	n	_	1	obl	_	_
+6	na	na	_	link	_	8	dep	_	_
+7	“	“	_	lquot	_	8	punct	_	_
+8	cera	cera	_	n	_	1	obj	_	_
+9	de	de	_	pr	_	10	case	_	_
+10	abeja	abeja	_	n	_	8	nmod	_	_
+11	”	”	_	rquot	_	8	punct	_	_
+12	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:11:212
+# text = An gobyerno kan Amerika nagresponde sa atake kaini paagi nin pagbungsod kan inaapod nindang Gera laban sa Terorismo.
+1	An	an	_	det	ind	2	det	_	_
+2	gobyerno	gobyerno	_	n	_	5	nsubj	_	_
+3	kan	kan	_	pr	_	4	case	_	_
+4	Amerika	Amerika	_	cog	_	2	nmod	_	_
+5	nagresponde	responde	_	vblex	_	0	root	_	_
+6	sa	sa	_	pr	_	7	case	_	_
+7	atake	atake	_	_	_	5	obl	_	_
+8	kaini	kainí	_	prn	_	7	nmod	_	_
+9	paagi	paagi	_	n	_	7	nmod	_	_
+10	nin	nin	_	pr	_	11	case	_	_
+11	pagbungsod	pagbungsod	_	n	_	5	obl	_	_
+12	kan	kan	_	pr	_	13	mark	_	_
+13	inaapod	apód	_	vblex	past	11	csubj	_	_
+14	nindang	nindá	_	prn	p3|pl	13	nsubj	_	_
+15	Gera	Gera	_	n	_	13	obj	_	_
+16	laban	laban	_	adv	_	18	case	_	_
+17	sa	sa	_	pr	_	16	fixed	_	_
+18	Terorismo	Terorismo	_	n	_	15	nmod	_	_
+19-20	.	_	_	_	_	_	_	_	_
+19	.	.	_	sent	_	5	punct	_	_
+20	_	.	_	sent	_	5	punct	_	_
+
+

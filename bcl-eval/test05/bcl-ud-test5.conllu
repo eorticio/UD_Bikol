@@ -1,0 +1,133 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin derecho sa nacionalidad.
+1	An	an	_	det	ind	3	det	_	_
+2	lambang	lambang	_	adj	sg	3	amod	_	_
+3	saro	saro	_	n	_	4	nsubj	_	_
+4	igwa	igwa	_	vblex	_	0	root	_	_
+5	nin	nin	_	pr	_	6	case	_	_
+6	derecho	derecho	_	n	_	4	obj	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	nacionalidad	nacionalidad	_	n	_	6	nmod	_	_
+9	.	.	_	sent	_	4	punct	_	_
+
+# sent_id = bcl:2:18
+# text = An estado kan Hawaii sarong arkipelago sa tahaw kan Pacifico.
+1	An	an	_	det	ind	2	det	_	_
+2	estado	estado	_	n	_	0	root	_	_
+3	kan	kan	_	pr	_	4	case	_	_
+4	Hawaii	Hawaii	_	cog	_	2	nmod	_	_
+5	sarong	sarong	_	det	ind	6	det	_	_
+6	arkipelago	arkipelago	_	n	_	2	obj	_	_
+7	sa	sa	_	pr	_	2	advmod	_	_
+8	tahaw	tahaw	_	adv	_	7	fixed	_	_
+9	kan	kan	_	pr	_	10	case	_	_
+10	Pacifico	Pacifico	_	cog	_	2	obl	_	_
+11	.	.	_	sent	_	2	punct	_	_
+
+# sent_id = bcl:3:41
+# text = Duman man sinurat niya an saiyang autobiografia.
+1	Duman	duman	_	prn	dem	3	nsubj	_	_
+2	man	man	_	adv	_	3	advmod	_	_
+3	sinurat	sinurat	_	vblex	_	0	root	_	_
+4	niya	niya	_	prn	p3|sg	3	iobj	_	_
+5	an	an	_	det	ind	7	det	_	_
+6	saiyang	saiyang	_	prn	p3|sg	7	nmod	_	_
+7	autobiografia	autobiografia	_	n	_	3	obj	_	_
+8	.	.	_	sent	_	3	punct	_	_
+
+# sent_id = bcl:4:58
+# text = Si Chris Pratt sarong Amerikanong aktor sa entablado, sa sine asin sa telebisyon.
+1	Si	si	_	det	def	2	det	_	_
+2	Chris	Chris	_	cog	_	6	nsubj	_	_
+3	Pratt	Pratt	_	cog	_	2	flat	_	_
+4	sarong	sarong	_	det	ind	6	det	_	_
+5	Amerikanong	Amerikanong	_	adj	sg	6	amod	_	_
+6	aktor	aktor	_	n	_	0	root	_	_
+7	sa	sa	_	pr	_	8	case	_	_
+8	entablado	entablado	_	n	_	6	obl	_	_
+9	,	,	_	cm	_	11	punct	_	_
+10	sa	sa	_	pr	_	11	case	_	_
+11	sine	sine	_	n	_	8	conj	_	_
+12	asin	asin	_	cnjcoo	_	14	cc	_	_
+13	sa	sa	_	pr	_	14	case	_	_
+14	telebisyon	telebisyon	_	n	_	8	conj	_	_
+15	.	.	_	sent	_	6	punct	_	_
+
+# sent_id = bcl:5:89
+# text = An tao kabtang kan idioma, lohika, matematika, siensiya asin teknolohiya.
+1	An	an	_	det	ind	3	det	_	_
+2	tao	tao	_	vblex	_	0	root	_	_
+3	kabtang	kabtang	_	n	_	2	obj	_	_
+4	kan	kan	_	pr	_	5	case	_	_
+5	idioma	idioma	_	n	_	3	nmod	_	_
+6	,	,	_	cm	_	7	punct	_	_
+7	lohika	lohika	_	n	_	5	conj	_	_
+8	,	,	_	cm	_	9	punct	_	_
+9	matematika	matematika	_	n	_	5	conj	_	_
+10	,	,	_	cm	_	11	punct	_	_
+11	siensiya	siensiya	_	n	_	5	conj	_	_
+12	asin	asin	_	cnjcoo	_	13	cc	_	_
+13	teknolohiya	teknolohiya	_	n	_	5	conj	_	_
+14	.	.	_	sent	_	2	punct	_	_
+
+# sent_id = bcl:6:118
+# text = Pasiring kami sa baraylehan.
+1	Pasiring	siring	_	vblex	_	0	root	_	_
+2	kami	kamí	_	prn	p1|pl	1	nsubj	_	_
+3	sa	sa	_	pr	_	4	case	_	_
+4	baraylehan	baraylehan	_	n	_	1	obl	_	_
+5	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:7:129
+# text = Dakolon an basura sa dagat.
+1	Dakolon	dakol	_	vblex	inf	0	root	_	_
+2	an	an	_	det	ind	3	det	_	_
+3	basura	basura	_	n	_	1	nsubj	_	_
+4	sa	sa	_	pr	_	5	case	_	_
+5	dagat	dagat	_	n	_	1	obl	_	_
+6	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:8:142
+# text = Hali pa lang ako sa Legazpi.
+1	Hali	hali	_	vblex	_	0	root	_	_
+2	pa	pa	_	adv	_	1	advmod	_	_
+3	lang	lang	_	adv	_	2	fixed	_	_
+4	ako	ako	_	prn	p1|sg	1	nsubj	_	_
+5	sa	sa	_	pr	_	6	case	_	_
+6	Legazpi	Legazpi	_	cog	_	1	obl	_	_
+7	.	.	_	sent	_	1	punct	_	_
+
+# sent_id = bcl:9:158
+# text = Maski ngonyan, an Puertong Internasyonal nin Tabaco an pinakamahigos na puerto sa enterong Rehiyon Bikol.
+1	Maski	maski	_	_	_	2	mark	_	_
+2	ngonyan	ngonyan	_	adj	sg	12	advcl	_	_
+3	,	,	_	cm	_	5	punct	_	_
+4	an	an	_	det	ind	5	det	_	_
+5	Puertong	Puertong	_	cog	_	12	nsubj	_	_
+6	Internasyonal	Internasyonal	_	cog	_	5	flat	_	_
+7	nin	nin	_	pr	_	8	case	_	_
+8	Tabaco	Tabaco	_	cog	_	5	nmod	_	_
+9	an	an	_	det	ind	13	det	_	_
+10	pinakamahigos	mahigos	_	adj	sg|sup	13	amod	_	_
+11	na	na	_	link	_	10	aux:amod	_	_
+12	puerto	puerto	_	n	_	0	root	_	_
+13	sa	sa	_	pr	_	15	case	_	_
+14	enterong	enterong	_	adj	sg	15	amod	_	_
+15	Rehiyon	Rehiyon	_	cog	_	12	obl	_	_
+16	Bikol	Bikol	_	cog	_	15	flat	_	_
+17	.	.	_	sent	_	12	punct	_	_
+
+# sent_id = bcl:10:193
+# text = An pinakamainit na bulan Hulyo asin Agosto.
+1	An	an	_	det	ind	4	det	_	_
+2	pinakamainit	mainit	_	adj	sg|sup	4	amod	_	_
+3	na	na	_	link	_	2	aux:amod	_	_
+4	bulan	bulan	_	n	_	0	root	_	_
+5	Hulyo	Hulyo	_	n	_	4	nsubj	_	_
+6	asin	asin	_	cnjcoo	_	7	cc	_	_
+7	Agosto	Agosto	_	n	_	6	conj	_	_
+8-9	.	_	_	_	_	_	_	_	_
+8	.	.	_	sent	_	4	punct	_	_
+9	_	.	_	sent	_	4	punct	_	_
+
+

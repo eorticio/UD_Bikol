@@ -1,0 +1,177 @@
+# sent_id = bcl:1:0
+# text = An familia iyo an natural asin fundamental na grupo-elemento kan banwaan asin igwa nin derecho sa proteccion kan banwaan asin kan Estado.
+1	An	_	_	_	_	2	det	_	_
+2	familia	_	_	_	_	9	nsubj	_	_
+3	iyo	_	_	_	_	2	amod	_	_
+4	an	_	_	_	_	9	det	_	_
+5	natural	_	_	_	_	9	amod	_	_
+6	asin	_	_	_	_	7	cc	_	_
+7	fundamental	_	_	_	_	5	conj	_	_
+8	na	_	_	_	_	5	aux:amod	_	_
+9	grupo	_	_	_	_	0	root	_	_
+10	-	_	_	_	_	9	compound	_	_
+11	elemento	_	_	_	_	9	compound	_	_
+12	kan	_	_	_	_	13	case	_	_
+13	banwaan	_	_	_	_	9	nmod	_	_
+14	asin	_	_	_	_	15	cc	_	_
+15	igwa	_	_	_	_	9	conj	_	_
+16	nin	_	_	_	_	17	case	_	_
+17	derecho	_	_	_	_	15	obj	_	_
+18	sa	_	_	_	_	19	case	_	_
+19	proteccion	_	_	_	_	17	nmod	_	_
+20	kan	_	_	_	_	21	case	_	_
+21	banwaan	_	_	_	_	19	nmod	_	_
+22	asin	_	_	_	_	24	cc	_	_
+23	kan	_	_	_	_	24	case	_	_
+24	Estado	_	_	_	_	21	conj	_	_
+25	.	_	_	_	_	9	punct	_	_
+
+# sent_id = bcl:2:50
+# text = Amber Benson, sarong pangenot na babai na aktres, o singer kan Estados Unidos.
+1	Amber	_	_	_	_	4	nsubj	_	_
+2	Benson	_	_	_	_	1	flat	_	_
+3	,	_	_	_	_	5	punct	_	_
+4	sarong	_	_	_	_	5	det	_	_
+5	pangenot	_	_	_	_	0	root	_	_
+6	na	_	_	_	_	7	aux:nmod	_	_
+7	babai	_	_	_	_	5	nmod	_	_
+8	na	_	_	_	_	9	aux:nmod	_	_
+9	aktres	_	_	_	_	5	nmod	_	_
+10	,	_	_	_	_	12	punct	_	_
+11	o	_	_	_	_	12	cc	_	_
+12	singer	_	_	_	_	5	obj	_	_
+13	kan	_	_	_	_	14	case	_	_
+14	Estados	_	_	_	_	5	obl	_	_
+15	Unidos	_	_	_	_	14	amod	_	_
+16	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:3:83
+# text = Nagadan si Quezon huli sa helang na tuberculosis duman sa Saranc Lake, Nweba York.
+1	Nagadan	_	_	_	_	0	root	_	_
+2	si	_	_	_	_	1	case	_	_
+3	Quezon	_	_	_	_	1	obl	_	_
+4	huli	_	_	_	_	1	case	_	_
+5	sa	_	_	_	_	4	fixed	_	_
+6	helang	_	_	_	_	1	obl	_	_
+7	na	_	_	_	_	8	aux:nmod	_	_
+8	tuberculosis	_	_	_	_	6	nmod	_	_
+9	duman	_	_	_	_	1	advmod	_	_
+10	sa	_	_	_	_	11	case	_	_
+11	Saranc	_	_	_	_	1	obl	_	_
+12	Lake	_	_	_	_	11	flat	_	_
+13	,	_	_	_	_	14	punct	_	_
+14	Nweba	_	_	_	_	11	flat	_	_
+15	York	_	_	_	_	11	flat	_	_
+16	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:4:116
+# text = Hinihiling siya komo sarong icon nin kultura asin nabantog na maray sa pangaran sanang Elvis.
+1	Hinihiling	_	_	_	_	0	root	_	_
+2	siya	_	_	_	_	1	nsubj	_	_
+3	komo	_	_	_	_	5	case	_	_
+4	sarong	_	_	_	_	5	det	_	_
+5	icon	_	_	_	_	1	obl	_	_
+6	nin	_	_	_	_	7	case	_	_
+7	kultura	_	_	_	_	5	nmod	_	_
+8	asin	_	_	_	_	9	cc	_	_
+9	nabantog	_	_	_	_	1	conj	_	_
+10	na	_	_	_	_	11	aux:advmod	_	_
+11	maray	_	_	_	_	9	advmod	_	_
+12	sa	_	_	_	_	13	case	_	_
+13	pangaran	_	_	_	_	11	obl	_	_
+14	sanang	_	_	_	_	9	advmod	_	_
+15	Elvis	_	_	_	_	9	nsubj	_	_
+16	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:5:149
+# text = An kanda, depende sa species, nagbuburak na nadarang kolor na puti, pula, giyaw, mairom na rosa o lila.
+1	An	_	_	_	_	2	det	_	_
+2	kanda	_	_	_	_	8	nsubj	_	_
+3	,	_	_	_	_	4	punct	_	_
+4	depende	_	_	_	_	8	advcl	_	_
+5	sa	_	_	_	_	4	fixed	_	_
+6	species	_	_	_	_	4	obj	_	_
+7	,	_	_	_	_	8	punct	_	_
+8	nagbuburak	_	_	_	_	0	root	_	_
+9	na	_	_	_	_	10	aux:advmod	_	_
+10	nadarang	_	_	_	_	8	advmod	_	_
+11	kolor	_	_	_	_	10	nmod	_	_
+12	na	_	_	_	_	13	aux:amod	_	_
+13	puti	_	_	_	_	11	amod	_	_
+14	,	_	_	_	_	15	punct	_	_
+15	pula	_	_	_	_	13	conj	_	_
+16	,	_	_	_	_	17	punct	_	_
+17	giyaw	_	_	_	_	13	amod	_	_
+18	,	_	_	_	_	19	punct	_	_
+19	mairom	_	_	_	_	13	amod	_	_
+20	na	_	_	_	_	21	aux:amod	_	_
+21	rosa	_	_	_	_	19	amod	_	_
+22	o	_	_	_	_	23	cc	_	_
+23	lila	_	_	_	_	13	conj	_	_
+24	.	_	_	_	_	8	punct	_	_
+
+# sent_id = bcl:6:198
+# text = An presidente kan Pilipinas kapay.
+1	An	_	_	_	_	2	det	_	_
+2	presidente	_	_	_	_	5	nsubj	_	_
+3	kan	_	_	_	_	4	case	_	_
+4	Pilipinas	_	_	_	_	2	nmod	_	_
+5	kapay	_	_	_	_	0	root	_	_
+6	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:7:211
+# text = Nagbisita sa eskuelahan mi si Evan asin Rio.
+1	Nagbisita	_	_	_	_	0	root	_	_
+2	sa	_	_	_	_	3	case	_	_
+3	eskuelahan	_	_	_	_	1	obl	_	_
+4	mi	_	_	_	_	3	nmod	_	_
+5	si	_	_	_	_	6	det	_	_
+6	Evan	_	_	_	_	1	nsubj	_	_
+7	asin	_	_	_	_	8	cc	_	_
+8	Rio	_	_	_	_	6	conj	_	_
+9	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:8:230
+# text = Igwa na naman programa sa eskuelahan.
+1	Igwa	_	_	_	_	0	root	_	_
+2	na	_	_	_	_	3	aux:advmod	_	_
+3	naman	_	_	_	_	1	advmod	_	_
+4	programa	_	_	_	_	1	nsubj	_	_
+5	sa	_	_	_	_	6	case	_	_
+6	eskuelahan	_	_	_	_	1	obl	_	_
+7	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:9:245
+# text = An pinakaimportanteng produkto kan ciudad iyo an bagas, mais, kamote, gulay, niyog asin abaka.
+1	An	_	_	_	_	3	det	_	_
+2	pinakaimportanteng	_	_	_	_	3	amod	_	_
+3	produkto	_	_	_	_	8	nsubj	_	_
+4	kan	_	_	_	_	5	case	_	_
+5	ciudad	_	_	_	_	3	nmod	_	_
+6	iyo	_	_	_	_	8	advmod	_	_
+7	an	_	_	_	_	8	det	_	_
+8	bagas	_	_	_	_	0	root	_	_
+9	,	_	_	_	_	10	punct	_	_
+10	mais	_	_	_	_	8	conj	_	_
+11	,	_	_	_	_	12	punct	_	_
+12	kamote	_	_	_	_	8	conj	_	_
+13	,	_	_	_	_	14	punct	_	_
+14	gulay	_	_	_	_	8	conj	_	_
+15	,	_	_	_	_	16	punct	_	_
+16	niyog	_	_	_	_	8	conj	_	_
+17	asin	_	_	_	_	18	cc	_	_
+18	abaka	_	_	_	_	8	conj	_	_
+19	.	_	_	_	_	8	punct	_	_
+
+# sent_id = bcl:10:284
+# text = Ini may apat na eskalon.
+1	Ini	_	_	_	_	2	nsubj	_	_
+2	may	_	_	_	_	0	root	_	_
+3	apat	_	_	_	_	5	nummod	_	_
+4	na	_	_	_	_	3	aux:nummod	_	_
+5	eskalon	_	_	_	_	2	obj	_	_
+6-7	.	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	2	punct	_	_
+7	_	_	_	_	_	2	punct	_	_
+
+

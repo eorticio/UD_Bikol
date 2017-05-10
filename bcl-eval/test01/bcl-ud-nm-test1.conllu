@@ -1,0 +1,156 @@
+# sent_id = bcl:1:0
+# text = An gabos na tawo ipinangaking may katalinkasan asin parantay sa dignidad asin derechos.
+1	An	_	_	_	_	2	det	_	_
+2	gabos	_	_	_	_	6	nsubj	_	_
+3	na	_	_	_	_	4	aux:nmod	_	_
+4	tawo	_	_	_	_	2	nmod	_	_
+5	ipinangaking	_	_	_	_	4	compound	_	_
+6	may	_	_	_	_	0	root	_	_
+7	katalinkasan	_	_	_	_	6	obj	_	_
+8	asin	_	_	_	_	9	cc	_	_
+9	parantay	_	_	_	_	7	conj	_	_
+10	sa	_	_	_	_	11	case	_	_
+11	dignidad	_	_	_	_	7	obl	_	_
+12	asin	_	_	_	_	13	cc	_	_
+13	derechos	_	_	_	_	11	conj	_	_
+14	.	_	_	_	_	6	punct	_	_
+
+# sent_id = bcl:2:28
+# text = Inaapod man ang Naga na Queen City of Bicol.
+1	Inaapod	_	_	_	_	0	root	_	_
+2	man	_	_	_	_	1	advmod	_	_
+3	ang	_	_	_	_	4	det	_	_
+4	Naga	_	_	_	_	1	nsubj	_	_
+5	na	_	_	_	_	6	det	_	_
+6	Queen	_	_	_	_	4	nmod	_	_
+7	City	_	_	_	_	6	compound	_	_
+8	of	_	_	_	_	9	case	_	_
+9	Bicol	_	_	_	_	7	nmod	_	_
+10	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:3:49
+# text = Siya an dati asin ikaduwang presidente kan Unibersidad kan Nueva Caceres.
+1	Siya	_	_	_	_	6	nsubj	_	_
+2	an	_	_	_	_	6	det	_	_
+3	dati	_	_	_	_	7	advmod	_	_
+4	asin	_	_	_	_	5	cc	_	_
+5	ikaduwang	_	_	_	_	3	conj	_	_
+6	presidente	_	_	_	_	0	root	_	_
+7	kan	_	_	_	_	8	case	_	_
+8	Unibersidad	_	_	_	_	6	nmod	_	_
+9	kan	_	_	_	_	8	flat	_	_
+10	Nueva	_	_	_	_	8	flat	_	_
+11	Caceres	_	_	_	_	8	flat	_	_
+12	.	_	_	_	_	6	punct	_	_
+
+# sent_id = bcl:4:74
+# text = Igwang duwang panginot na lugar pankomersiyo an Naga.
+1	Igwang	_	_	_	_	0	root	_	_
+2	duwang	_	_	_	_	5	nummod	_	_
+3	panginot	_	_	_	_	5	amod	_	_
+4	na	_	_	_	_	3	aux:amod	_	_
+5	lugar	_	_	_	_	1	obj	_	_
+6	pankomersiyo	_	_	_	_	5	amod	_	_
+7	an	_	_	_	_	8	case	_	_
+8	Naga	_	_	_	_	1	obl	_	_
+9	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:5:93
+# text = Nagiriwal si mga buratsero.
+1	Nagiriwal	_	_	_	_	0	root	_	_
+2	si	_	_	_	_	4	det	_	_
+3	mga	_	_	_	_	4	det	_	_
+4	buratsero	_	_	_	_	1	nsubj	_	_
+5	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:6:105
+# text = Komusta si biyahe nindo?
+1	Komusta	_	_	_	_	0	root	_	_
+2	si	_	_	_	_	3	det	_	_
+3	biyahe	_	_	_	_	1	nsubj	_	_
+4	nindo	_	_	_	_	3	nmod	_	_
+5	?	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:7:116
+# text = Maski pobre kami, tiripon man an pamilya.
+1	Maski	_	_	_	_	2	cc	_	_
+2	pobre	_	_	_	_	5	advcl	_	_
+3	kami	_	_	_	_	2	nsubj	_	_
+4	,	_	_	_	_	5	punct	_	_
+5	tiripon	_	_	_	_	0	root	_	_
+6	man	_	_	_	_	5	advmod	_	_
+7	an	_	_	_	_	8	det	_	_
+8	pamilya	_	_	_	_	5	nsubj	_	_
+9	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:8:135
+# text = Hapiton mo ako alas dose ta masine kita.
+1	Hapiton	_	_	_	_	0	root	_	_
+2	mo	_	_	_	_	1	nsubj	_	_
+3	ako	_	_	_	_	1	obj	_	_
+4	alas	_	_	_	_	5	case	_	_
+5	dose	_	_	_	_	1	obl	_	_
+6	ta	_	_	_	_	7	cc	_	_
+7	masine	_	_	_	_	1	conj	_	_
+8	kita	_	_	_	_	7	nsubj	_	_
+9	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:9:154
+# text = An grupo kan mga species na magkaharanihan an istratura kan saindang DNA inaapod na genus.
+1	An	_	_	_	_	2	det	_	_
+2	grupo	_	_	_	_	7	nsubj	_	_
+3	kan	_	_	_	_	5	case	_	_
+4	mga	_	_	_	_	5	det	_	_
+5	species	_	_	_	_	2	nmod	_	_
+6	na	_	_	_	_	7	dep	_	_
+7	magkaharanihan	_	_	_	_	0	root	_	_
+8	an	_	_	_	_	9	det	_	_
+9	istratura	_	_	_	_	7	obj	_	_
+10	kan	_	_	_	_	12	case	_	_
+11	saindang	_	_	_	_	12	nmod	_	_
+12	DNA	_	_	_	_	9	nmod	_	_
+13	inaapod	_	_	_	_	9	acl	_	_
+14	na	_	_	_	_	15	dep	_	_
+15	genus	_	_	_	_	3	obj	_	_
+16	.	_	_	_	_	7	punct	_	_
+
+# sent_id = bcl:10:187
+# text = Inaapod man ini sa Espanyol na “cera de abeja”.
+1	Inaapod	_	_	_	_	0	root	_	_
+2	man	_	_	_	_	1	advmod	_	_
+3	ini	_	_	_	_	1	nsubj	_	_
+4	sa	_	_	_	_	5	case	_	_
+5	Espanyol	_	_	_	_	1	obl	_	_
+6	na	_	_	_	_	8	dep	_	_
+7	“	_	_	_	_	8	punct	_	_
+8	cera	_	_	_	_	1	obj	_	_
+9	de	_	_	_	_	10	case	_	_
+10	abeja	_	_	_	_	8	nmod	_	_
+11	”	_	_	_	_	8	punct	_	_
+12	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:11:212
+# text = An gobyerno kan Amerika nagresponde sa atake kaini paagi nin pagbungsod kan inaapod nindang Gera laban sa Terorismo.
+1	An	_	_	_	_	2	det	_	_
+2	gobyerno	_	_	_	_	5	nsubj	_	_
+3	kan	_	_	_	_	4	case	_	_
+4	Amerika	_	_	_	_	2	nmod	_	_
+5	nagresponde	_	_	_	_	0	root	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	atake	_	_	_	_	5	obl	_	_
+8	kaini	_	_	_	_	7	nmod	_	_
+9	paagi	_	_	_	_	7	nmod	_	_
+10	nin	_	_	_	_	11	case	_	_
+11	pagbungsod	_	_	_	_	5	obl	_	_
+12	kan	_	_	_	_	13	mark	_	_
+13	inaapod	_	_	_	_	11	csubj	_	_
+14	nindang	_	_	_	_	13	nsubj	_	_
+15	Gera	_	_	_	_	13	obj	_	_
+16	laban	_	_	_	_	18	case	_	_
+17	sa	_	_	_	_	16	fixed	_	_
+18	Terorismo	_	_	_	_	15	nmod	_	_
+19-20	.	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	5	punct	_	_
+20	_	_	_	_	_	5	punct	_	_
+
+

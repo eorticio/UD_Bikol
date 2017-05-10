@@ -1,0 +1,152 @@
+# sent_id = bcl:1:0
+# text = An lambang saro igwa nin derecho nin pagkamidbid bilang sarong persona sa atubang nin ley.
+1	An	_	_	_	_	3	det	_	_
+2	lambang	_	_	_	_	3	amod	_	_
+3	saro	_	_	_	_	4	nsubj	_	_
+4	igwa	_	_	_	_	0	root	_	_
+5	nin	_	_	_	_	6	case	_	_
+6	derecho	_	_	_	_	4	obj	_	_
+7	nin	_	_	_	_	8	case	_	_
+8	pagkamidbid	_	_	_	_	6	amod	_	_
+9	bilang	_	_	_	_	6	acl	_	_
+10	sarong	_	_	_	_	11	det	_	_
+11	persona	_	_	_	_	10	nsubj	_	_
+12	sa	_	_	_	_	15	case	_	_
+13	atubang	_	_	_	_	12	fixed	_	_
+14	nin	_	_	_	_	15	case	_	_
+15	ley	_	_	_	_	6	obl	_	_
+16	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:2:32
+# text = Pigtatanga ini kan Kanada sa norte asin Mehiko sa sur.
+1	Pigtatanga	_	_	_	_	0	root	_	_
+2	ini	_	_	_	_	1	nsubj	_	_
+3	kan	_	_	_	_	4	case	_	_
+4	Kanada	_	_	_	_	1	obj	_	_
+5	sa	_	_	_	_	6	case	_	_
+6	norte	_	_	_	_	4	obl	_	_
+7	asin	_	_	_	_	8	cc	_	_
+8	Mehiko	_	_	_	_	4	conj	_	_
+9	sa	_	_	_	_	10	case	_	_
+10	sur	_	_	_	_	8	obl	_	_
+11	.	_	_	_	_	0	punct	_	_
+
+# sent_id = bcl:3:56
+# text = Si Aguinaldo nagbalik sa pribado nang pamumuhay.
+1	Si	_	_	_	_	2	det	_	_
+2	Aguinaldo	_	_	_	_	3	nsubj	_	_
+3	nagbalik	_	_	_	_	0	root	_	_
+4	sa	_	_	_	_	5	case	_	_
+5	pribado	_	_	_	_	3	obl	_	_
+6	nang	_	_	_	_	7	aux:nmod	_	_
+7	pamumuhay	_	_	_	_	5	nmod	_	_
+8	.	_	_	_	_	3	punct	_	_
+
+# sent_id = bcl:4:73
+# text = Ini an pinakamatawo na ciudad sa Estados Unidos asin saro sa mga pinakamatawo kan Nueva York o Los Angeles.
+1	Ini	_	_	_	_	3	nsubj	_	_
+2	an	_	_	_	_	3	det	_	_
+3	pinakamatawo	_	_	_	_	0	root	_	_
+4	na	_	_	_	_	5	aux:nmod	_	_
+5	ciudad	_	_	_	_	3	nmod	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	Estados	_	_	_	_	5	obl	_	_
+8	Unidos	_	_	_	_	7	amod	_	_
+9	asin	_	_	_	_	10	cc	_	_
+10	saro	_	_	_	_	7	conj	_	_
+11	sa	_	_	_	_	13	case	_	_
+12	mga	_	_	_	_	13	det	_	_
+13	pinakamatawo	_	_	_	_	10	nmod	_	_
+14	kan	_	_	_	_	15	case	_	_
+15	Nueva	_	_	_	_	10	obl	_	_
+16	York	_	_	_	_	15	flat	_	_
+17	o	_	_	_	_	18	cc	_	_
+18	Los	_	_	_	_	15	conj	_	_
+19	Angeles	_	_	_	_	18	flat	_	_
+20	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:5:114
+# text = Ini nagigikanan man nin mga elemento sa paggibo nin medisina, asayti, inomon, asin panhugas.
+1	Ini	_	_	_	_	2	nsubj	_	_
+2	nagigikanan	_	_	_	_	0	root	_	_
+3	man	_	_	_	_	2	advmod	_	_
+4	nin	_	_	_	_	6	case	_	_
+5	mga	_	_	_	_	6	det	_	_
+6	elemento	_	_	_	_	2	obl	_	_
+7	sa	_	_	_	_	8	case	_	_
+8	paggibo	_	_	_	_	6	amod	_	_
+9	nin	_	_	_	_	10	case	_	_
+10	medisina	_	_	_	_	8	obl	_	_
+11	,	_	_	_	_	12	punct	_	_
+12	asayti	_	_	_	_	10	conj	_	_
+13	,	_	_	_	_	14	punct	_	_
+14	inomon	_	_	_	_	10	conj	_	_
+15	,	_	_	_	_	17	punct	_	_
+16	asin	_	_	_	_	17	cc	_	_
+17	panhugas	_	_	_	_	10	conj	_	_
+18	.	_	_	_	_	2	punct	_	_
+
+# sent_id = bcl:6:151
+# text = Magayon an bado ni Maria.
+1	Magayon	_	_	_	_	0	root	_	_
+2	an	_	_	_	_	3	det	_	_
+3	bado	_	_	_	_	1	nsubj	_	_
+4	ni	_	_	_	_	5	det	_	_
+5	Maria	_	_	_	_	3	nmod	_	_
+6	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:7:164
+# text = An tsinelas niya bago bakalon sa saudan.
+1	An	_	_	_	_	2	det	_	_
+2	tsinelas	_	_	_	_	5	nsubj	_	_
+3	niya	_	_	_	_	2	nmod	_	_
+4	bago	_	_	_	_	2	amod	_	_
+5	bakalon	_	_	_	_	0	root	_	_
+6	sa	_	_	_	_	7	case	_	_
+7	saudan	_	_	_	_	5	obl	_	_
+8	.	_	_	_	_	5	punct	_	_
+
+# sent_id = bcl:8:181
+# text = Ipapabisto ko saimo si Mario.
+1	Ipapabisto	_	_	_	_	0	root	_	_
+2	ko	_	_	_	_	1	nsubj	_	_
+3	saimo	_	_	_	_	1	obj	_	_
+4	si	_	_	_	_	5	case	_	_
+5	Mario	_	_	_	_	1	iobj	_	_
+6	.	_	_	_	_	1	punct	_	_
+
+# sent_id = bcl:9:194
+# text = An Tabaco dating kapitolyo na ekonomiya nin Albay, bago pa naging importante an Legazpi.
+1	An	_	_	_	_	2	det	_	_
+2	Tabaco	_	_	_	_	4	nsubj	_	_
+3	dating	_	_	_	_	4	advmod	_	_
+4	kapitolyo	_	_	_	_	0	root	_	_
+5	na	_	_	_	_	6	aux:nmod	_	_
+6	ekonomiya	_	_	_	_	4	nmod	_	_
+7	nin	_	_	_	_	8	case	_	_
+8	Albay	_	_	_	_	4	obl	_	_
+9	,	_	_	_	_	12	punct	_	_
+10	bago	_	_	_	_	12	advmod	_	_
+11	pa	_	_	_	_	13	aux	_	_
+12	naging	_	_	_	_	4	advcl	_	_
+13	importante	_	_	_	_	15	advmod	_	_
+14	an	_	_	_	_	15	det	_	_
+15	Legazpi	_	_	_	_	12	obj	_	_
+16	.	_	_	_	_	4	punct	_	_
+
+# sent_id = bcl:10:227
+# text = Mayor na destinasyon ining cuidad para sa mga turista.
+1	Mayor	_	_	_	_	3	amod	_	_
+2	na	_	_	_	_	1	aux:amod	_	_
+3	destinasyon	_	_	_	_	0	root	_	_
+4	ining	_	_	_	_	5	det	_	_
+5	cuidad	_	_	_	_	3	nsubj	_	_
+6	para	_	_	_	_	9	case	_	_
+7	sa	_	_	_	_	9	det	_	_
+8	mga	_	_	_	_	9	det	_	_
+9	turista	_	_	_	_	3	obl	_	_
+10-11	.	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	3	punct	_	_
+11	_	_	_	_	_	3	punct	_	_
+
+

@@ -1,0 +1,233 @@
+"<An>"
+	"an" det ind @det #1->3
+"<lambang>"
+	"lambang" adj sg @amod #2->3
+"<saro>"
+	"saro" n @nsubj #3->4
+"<igwa>"
+	"igwa" vblex @root #4->0
+"<nin>"
+	"nin" pr @case #5->6
+"<derecho>"
+	"derecho" n @obj #6->4
+"<nin>"
+	"nin" pr @case #7->8
+"<buhay>"
+	"buhay" n @nmod #8->6
+"<,>"
+	"," cm @punct #9->10
+"<katalinkasan>"
+	"katalinkasan" n @conj #10->8
+"<,>"
+	"," cm @punct #11->13
+"<asin>"
+	"asin" cnjcoo @cc #12->13
+"<seguridad>"
+	"seguridad" n @conj #13->8
+"<nin>"
+	"nin" pr @case #14->15
+"<pagkatawo>"
+	"pagkatawo" n @obl #15->8
+"<.>"
+	"." sent @punct #16->4
+
+"<An>"
+	"an" det ind @det #1->2
+"<Alabama>"
+	"Alabama" cog @nsubj #2->4
+"<sarong>"
+	"sarong" det ind @det #3->4
+"<estado>"
+	"estado" n @root #4->0
+"<kan>"
+	"kan" pr @case #5->6
+"<Estados>"
+	"Estados" cog @obl #6->4
+"<Unidos>"
+	"Unidos" adj @amod #7->6
+"<.>"
+	"." sent @punct #8->4
+
+"<Namundag>"
+	"mundag" vblex @root #1->0
+"<siya>"
+	"siya" prn p3 sg @nsubj #2->1
+"<sa>"
+	"sa" pr @case #3->4
+"<Cavite>"
+	"Cavite" cog @obl #4->1
+"<El>"
+	"El" cog @flat #5->4
+"<Viejo>"
+	"Viejo" cog @flat #6->4
+"<.>"
+	"." sent @punct #7->1
+
+"<An>"
+	"an" det ind @det #1->2
+"<Chicago>"
+	"Chicago" cog @nsubj #2->4
+"<sarong>"
+	"sarong" det ind @det #3->4
+"<syudad>"
+	"syudad" n @root #4->0
+"<na>"
+	"na" link @aux:amod #5->6
+"<namumugtak>"
+	"mugtak" adj sg @amod #6->4
+"<sa>"
+	"sa" pr @case #7->8
+"<sur>"
+	"sur" n @obl #8->4
+"<->"
+	"-" guio @compound #9->8
+"<subangan>"
+	"subangan" n @compound #10->8
+"<kan>"
+	"kan" pr @case #11->12
+"<estado>"
+	"estado" n @nmod #12->10
+"<nin>"
+	"nin" pr @case #13->14
+"<Illinois>"
+	"Illinois" cog @nmod #14->12
+"<.>"
+	"." sent @punct #15->4
+
+"<An>"
+	"an" det ind @det #1->2
+"<batayan>"
+	"batayan" n @nsubj #2->8
+"<kan>"
+	"kan" pr @case #3->5
+"<mga>"
+	"mga" pl @det #4->5
+"<doktrina>"
+	"doktrina" n @nmod #5->2
+"<nin>"
+	"nin" pr @case #6->7
+"<Islam>"
+	"Islam" cog @nmod #7->5
+"<nakukua>"
+	"kua" vblex fti @root #8->0
+"<sa>"
+	"sa" pr @case #9->10
+"<Koran>"
+	"Koran" cog @obl #10->8
+"<.>"
+	"." sent @punct #11->8
+
+"<May>"
+	"may" vblex @root #1->0
+"<signal>"
+	"signal" n @obj #2->1
+"<an>"
+	"an" det ind @det #3->4
+"<cellphone>"
+	"cellphone" n @nsubj #4->1
+"<mo>"
+	"mo" prn p2 sg @nmod #5->4
+"<?>"
+	"?" sent @punct #6->1
+
+"<An>"
+	"an" det ind @det #1->2
+"<harong>"
+	"harong" n @nsubj #2->3
+"<sadit>"
+	"sadit" adj sg @root #3->0
+"<sana>"
+	"sana" adv @advmod #4->3
+"<pero>"
+	"pero" cnjcoo @cc #5->6
+"<malinig>"
+	"linig" adj sg @conj #6->4
+"<sa>"
+	"sa" pr @case #7->8
+"<kusina>"
+	"kusina" n @obl #8->3
+"<.>"
+	"." sent @punct #9->3
+
+
+"<Darahon>"
+	"dará" vblex inf @root #1->0
+"<mo>"
+	"mo" prn p2 sg @nsubj #2->1
+"<an>"
+	"an" det ind @det #3->4
+"<libro>"
+	"libro" n @obj #4->1 
+"<ni>"
+	"ni" link @case #5->6
+"<Jose>"
+	"Jose" cog @obl #6->1
+"<.>"
+	"." sent @punct #7->1
+
+"<Dakol>"
+	"dakol" det @det #1->3
+"<an>"
+	"an" det ind @det #2->3
+"<bersiyon>"
+	"bersiyon" n @root #3->0
+"<kan>"
+	"kan" pr @case #4->5
+"<kapangaranan>"
+	"kapangaranan" n @obl #5->3
+"<kan>"
+	"kan" pr @case #6->7
+"<Tabaco>"
+	"Tabaco" cog @obl #7->3
+"<.>"
+	"." sent @punct #8->3
+
+"<An>"
+	"an" det ind @det #1->2
+"<Londres>"
+	"Londres" cog @nsubj #2->5
+"<an>"
+	"an" det ind @det #3->5
+"<pinakamatawong>"
+	"tawo" adj sg sp @amod #4->5
+"<ciudad>"
+	"ciudad" n @root #5->0
+"<sa>"
+	"sa" pr @case #6->7
+"<Union>"
+	"Union" cog @obl #7->5
+"<Europea>"
+	"Europea" cog @flat #8->7
+"<.>"
+	"." sent @punct #9->1
+
+"<An>"
+	"an" det ind @det #1->2
+"<toga>"
+	"toga" n @nsubj #2->3
+"<gibo>"
+	"gíbo" vblex @root #3->0
+"<sa>"
+	"sa" pr @case #4->5
+"<pranela>"
+	"pranela" @obj #5->3
+"<asin>"
+	"asin" cnjcoo @cc #6->12
+"<an>"
+	"an" det ind @det #7->8
+"<tunic>"
+	"tunic" n @nsubj #8->12 
+"<sa>"
+	"sa" pr @amod #9->8
+"<irarom>"
+	"irarom" adj sg @fixed #10->9
+"<parati>"
+	"parati" adv @advmod #11->12
+"<gibo>"
+	"gíbo" vblex @conj #12->3
+"<sa>"
+	"sa" pr @case #13->14
+"<linen>"
+	"linen" n @obj #14->12
+"<.>"
+	"." sent @punct #15->3
